@@ -1,0 +1,50 @@
+respondent_id,duration_of_experiment,exp_risk_assessment,exp_blackbox,exp_developing_ml,exp_reading_ti_reports,random_group,rep1_likelihood_correct,rep2_likelihood_correct,rep3_likelihood_correct,rep4_likelihood_correct,rep5_likelihood_correct,rep6_likelihood_correct,rep7_likelihood_correct,rep8_likelihood_correct,total_likelihood_correct,average_confidence_assessment,average_considered_impact,good_understanding,sufficient_time,prepared_well_by_training
+R_3EGfkDfLBd8gpt0,1862,As part of University projects,As part of University projects,No experience,As part of University projects,I,False,True,False,False,True,False,False,False,2,2.625,3.875,5,5,4
+R_1i2JH7NwfAB6XPK,2106,No experience,No experience,No experience,Never seen one before,B,True,False,True,False,False,False,False,False,2,3.375,3.75,4,4,4
+R_VUU7Ro2T6DlZbQR,2887,As part of University projects,As part of University projects,No experience,Never seen one before,J,False,False,True,True,True,False,False,True,4,3.125,3.75,5,5,3
+R_RkUCuQCXlPpFqXD,2513,As part of University projects,As part of University projects,No experience,As part of University projects,A,False,False,False,False,False,True,True,False,2,3.0,2.0,5,5,3
+R_2y7d0TAqsMCPDEj,3122,No experience,No experience,No experience,Never seen one before,B,True,False,True,True,False,False,False,False,3,3.25,4.125,3,5,1
+R_31HKys4YJElIMIQ,3230,No experience,No experience,No experience,Never seen one before,C,True,True,True,False,True,False,True,True,6,3.75,4.125,5,5,4
+R_2dtq2995ikhbeVP,3327,Performed one or two risk assessment projects outside of university,No experience,No experience,As part of University projects,F,True,True,True,True,True,False,True,True,7,2.875,4.5,2,5,3
+R_1LHhr9JGk71YpZ8,3307,As part of University projects,As part of University projects,No experience,As part of University projects,K,False,True,True,True,False,False,True,False,4,3.0,3.375,5,5,4
+R_2qg9VL97Lfr6kw5,3378,As part of University projects,As part of University projects,No experience,I have analyzed a few threat intelligence reports outside of University,L,True,False,False,False,False,False,False,False,1,3.625,3.5,4,5,5
+R_1LGpWj3o7NoxbDe,3490,As part of University projects,No experience,No experience,As part of University projects,E,False,False,True,False,True,False,False,False,2,2.75,2.625,5,5,4
+R_Y5ez3SNeaB0f505,3502,No experience,No experience,No experience,I have analyzed a few threat intelligence reports outside of University,F,False,True,True,False,False,False,True,False,3,3.625,4.75,2,5,2
+R_2EhMVn7uXsZu9Ay,3291,As part of University projects,As part of University projects,No experience,As part of University projects,I,False,True,False,False,False,True,True,False,3,3.375,4.0,4,4,1
+R_2TsFKpba3f8ZKwT,3940,As part of University projects,Used one or two ML algorithms outside of university,Developed one or two ML algorithms outside of university,As part of University projects,H,False,False,False,False,False,True,True,False,2,2.875,2.625,4,5,4
+R_1N4ANeme2d47raB,3196,As part of University projects,As part of University projects,No experience,As part of University projects,K,True,False,True,False,False,False,False,True,3,4.0,4.625,5,5,5
+R_3snaNiQAsiWvYIu,4207,As part of University projects,As part of University projects,As part of University projects,As part of University projects,G,True,False,False,False,False,False,False,False,1,2.25,4.375,5,5,3
+R_3nUahgRuPNRinIl,4262,As part of University projects,No experience,No experience,Never seen one before,D,False,True,False,True,True,False,True,True,5,3.0,4.0,4,5,3
+R_Wp3dQ2943lYAQc9,4325,As part of University projects,As part of University projects,No experience,Never seen one before,B,True,False,True,False,False,False,False,True,3,2.875,4.5,2,4,1
+R_20UpOgvQsuN7P5d,4649,As part of University projects,No experience,No experience,Never seen one before,G,True,False,False,True,False,False,False,False,2,2.0,3.0,4,5,3
+R_DqqEGiQ2MzPUReV,4562,As part of University projects,As part of University projects,No experience,Never seen one before,C,True,True,True,True,True,False,True,False,6,3.375,4.5,5,5,4
+R_1gbVSi0s51Cj6n8,5575,As part of University projects,As part of University projects,As part of University projects,I have analyzed a few threat intelligence reports outside of University,L,False,False,False,False,False,True,True,False,2,2.5,3.75,4,2,1
+R_222EEE1,1940,No experience,As part of University projects,As part of University projects,Never seen one before,E,True,False,True,False,False,False,True,False,3,3.375,3.875,4,5,4
+R_222EEE2,2893,No experience,No experience,No experience,Never seen one before,B,True,False,True,True,False,False,False,False,3,2.5,4.5,5,5,5
+R_222EEE3,2620,As part of University projects,As part of University projects,As part of University projects,Never seen one before,L,True,False,False,False,False,False,False,False,1,3.125,3.625,5,5,5
+R_222EEE4,2749,No experience,As part of University projects,As part of University projects,Never seen one before,G,True,True,True,True,False,False,False,True,5,4.125,4.625,5,5,5
+R_222EEE5,2770,No experience,As part of University projects,As part of University projects,Never seen one before,G,True,True,True,False,False,False,False,False,3,3.0,4.0,4,5,5
+R_222EEE6,3323,No experience,As part of University projects,As part of University projects,Never seen one before,K,False,False,True,True,False,False,False,False,2,3.625,4.75,5,5,5
+R_222EEE7,3232,No experience,No experience,As part of University projects,Never seen one before,H,False,False,False,True,True,False,False,True,3,4.125,4.875,4,5,5
+R_222EEE8,3554,No experience,As part of University projects,As part of University projects,Never seen one before,H,False,False,False,False,True,True,True,False,3,3.0,3.5,2,4,3
+R_222EEE9,3609,No experience,As part of University projects,Developed one or two ML algorithms outside of university,Never seen one before,C,True,True,True,False,True,True,False,True,6,1.75,4.25,4,5,5
+R_222EEE10,3604,As part of University projects,No experience,As part of University projects,Never seen one before,K,True,True,True,True,False,False,False,False,4,3.75,4.25,5,5,4
+R_222EEE11,3702,No experience,As part of University projects,As part of University projects,Never seen one before,C,True,True,True,False,False,True,True,False,5,4.75,4.625,4,5,3
+R_222EEE12,3939,No experience,As part of University projects,As part of University projects,Never seen one before,F,False,True,True,False,True,False,True,False,4,2.125,4.25,4,5,4
+R_222EEE13,4014,As part of University projects,As part of University projects,As part of University projects,As part of University projects,J,False,True,True,True,False,False,True,False,4,3.75,4.125,4,3,4
+R_222EEE14,3986,As part of University projects,No experience,As part of University projects,As part of University projects,B,True,False,True,True,False,False,False,False,3,5.0,5.0,5,5,4
+R_222EEE15,4081,No experience,Used several ML algorithms outside of university,As part of University projects,Never seen one before,L,True,True,False,False,True,False,True,False,4,3.0,4.75,5,5,4
+R_222EEE16,4161,No experience,No experience,As part of University projects,As part of University projects,A,False,False,False,True,False,True,False,True,3,1.5,3.0,4,5,3
+R_222EEE17,4595,No experience,As part of University projects,Developed one or two ML algorithms outside of university,Never seen one before,F,False,False,True,True,False,False,True,False,3,2.75,4.0,5,5,5
+R_222EEE18,4660,As part of University projects,No experience,Developed one or two ML algorithms outside of university,As part of University projects,J,True,True,True,False,True,False,False,False,4,3.625,4.375,5,5,4
+R_222EEE19,4261,No experience,As part of University projects,No experience,Never seen one before,D,False,True,False,True,False,False,False,True,3,3.25,4.125,5,5,5
+R_222EEE20,5462,As part of University projects,As part of University projects,As part of University projects,Never seen one before,A,True,False,False,True,True,True,False,True,5,2.875,4.0,4,4,4
+R_222EEE21,6162,No experience,As part of University projects,As part of University projects,Never seen one before,D,True,True,False,False,True,True,True,True,6,3.875,4.625,5,5,5
+R_2XisQcp2nwPU39D,3337,As part of University projects,As part of University projects,As part of University projects,Never seen one before,C,True,True,True,True,True,False,True,True,7,3.75,3.25,5,5,4
+R_8QrPGt5CNvLd1lp,3968,No experience,As part of University projects,No experience,Never seen one before,D,False,True,True,False,True,True,True,False,5,2.25,4.875,3,5,4
+R_2k7mVNKwRjNl6KQ,4555,As part of University projects,As part of University projects,No experience,As part of University projects,B,True,False,True,True,True,False,False,True,5,4.25,3.875,5,5,5
+R_2VmACIXjENL5z7H,4589,As part of University projects,As part of University projects,As part of University projects,As part of University projects,G,True,True,True,True,True,False,True,True,7,4.0,3.625,4,5,4
+R_8NVcoeta4S8rpT9,5042,As part of University projects,As part of University projects,As part of University projects,As part of University projects,E,True,False,False,False,True,False,False,True,3,2.75,4.875,4,5,4
+R_2NDrCAFoqWuhRXH,4933,As part of University projects,No experience,No experience,As part of University projects,L,False,False,False,False,True,False,False,False,1,3.75,4.625,5,5,5
+R_2amhphPbs0VzeEq,5736,No experience,Used one or two ML algorithms outside of university,No experience,As part of University projects,I,False,False,True,True,True,False,False,True,4,3.5,4.25,5,3,4
+R_8eRDNaY0lHGPd7Q,6034,As part of University projects,Used one or two ML algorithms outside of university,No experience,Never seen one before,K,False,True,True,False,False,False,True,False,3,3.75,4.125,4,2,4

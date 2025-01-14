@@ -1,3 +1,8 @@
+import pandas as pd
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
+
 from general_data_editing import process_excel_multiple_sheets_to_csv, process_excel_combine_rows
 import os
 
@@ -5,6 +10,7 @@ input_file = "data/CTI-Responses-Manual-Cleanup.xlsx"  # input file
 input_file_2 = "data/CTI-Ground-Truth-Manual-Cleanup.xlsx"  # input file
 responses_step1_file = "data/responses_step1.csv"  # .xlsx to csv of respondents
 ground_truth_step1_file = "data/ground_truth_step1.csv"  # .xlsx to csv of respondents
+details_respondents_step2_file = "data/responses_step2.csv"
 
 
 def file_exists(file_path):
@@ -19,12 +25,130 @@ def pre_processing(force_create=False):
         process_excel_combine_rows(input_file_2, ground_truth_step1_file)
 
 
-def define_details_about_students():
-    pass
+def generate_properties(force_create=False):
+    if (not file_exists(details_respondents_step2_file)) or force_create:
+        define_details_about_respondents()
+
+
+def define_details_about_respondents():
+    responses_file = responses_step1_file
+    ground_truth_file = ground_truth_step1_file
+
+    responses_df = pd.read_csv(responses_file)
+    ground_truth_df = pd.read_csv(ground_truth_file)
+
+    columns = [
+        'respondent_id',  # Data direct from raw data
+        'duration_of_experiment',
+        'exp_risk_assessment',
+        'exp_blackbox',
+        'exp_developing_ml',
+        'exp_reading_ti_reports',
+        'random_group',  # Properties made now
+        'rep1_likelihood_correct',  # Whether the respondent had same likelihood as the NCSC.
+        'rep2_likelihood_correct',  # For all 8 reports
+        'rep3_likelihood_correct',
+        'rep4_likelihood_correct',
+        'rep5_likelihood_correct',
+        'rep6_likelihood_correct',
+        'rep7_likelihood_correct',
+        'rep8_likelihood_correct',
+        'total_likelihood_correct',
+        'average_confidence_assessment',  # from 1-5, range => not at all - fully
+        'average_considered_impact',
+        'good_understanding',
+        'sufficient_time',
+        'prepared_well_by_training'
+    ]
+
+    new_df = pd.DataFrame(columns=columns)
+
+    # indexes 0-4 + 1 eventually
+    confidence_list = ["I'm not confident at all",  "I'm slightly confident", "I'm somewhat confident", "I'm fairly confident", "I'm completely confident"]
+    agreement_list = ["Strongly Disagree", "Disagree", "Neither agree nor disagree", "Somewhat agree", "Strongly agree"]
+
+    for index, row in responses_df.iterrows():
+        id_of_row = row['STAT_ID']
+        duration = row['STAT_Duration_sec']
+        exp_risk_assessment = row['MLEX_exp_in_vulnerability_risk_assessment']
+        exp_blackbox = row['MLEX_exp_black_box_ml_algo']
+        exp_developing_ml = row['MLEX_exp_developing_ml_algorithms']
+        exp_reading_ti_reports = row['MLEX_exp_reading_threat_intelligence_reports']
+
+        random_group = None
+        for col in row.index:
+            if col.startswith('RAND_') and row[col] > 0:
+                random_group = col[-1]
+
+        rep_likelihood_correct = []
+        total_likelihood_correct = 0
+
+        sum_confidence_assessment = 0
+        sum_considered_impact = 0
+
+        for i in range(1, 9):
+            truth_row_for_this_report = ground_truth_df.loc[ground_truth_df['report_id'] == f"{i}_{random_group}"].iloc[0]
+            own_likelihood = row[f"REP{i}_own_recomm_of_likelihood"]
+            if own_likelihood == truth_row_for_this_report['ncsc_likelihood']:
+                rep_likelihood_correct.append(True)
+                total_likelihood_correct += 1
+            else:
+                rep_likelihood_correct.append(False)
+            confidence = row[f"REP{i}_confident_that__vulnerability_assessment_is_correct"]
+            considered_impact = row[f"REP{i}_i_considered_impact_of_vulnerability"]
+            confidence_score = 0
+            if confidence in confidence_list:
+                confidence_score = confidence_list.index(confidence) + 1
+            else:
+                confidence_score = agreement_list.index(confidence) + 1
+            considered_impact_score = agreement_list.index(considered_impact) + 1
+            sum_confidence_assessment += confidence_score
+            sum_considered_impact += considered_impact_score
+
+        average_confidence_assessment = sum_confidence_assessment / 8
+        average_considered_impact = sum_considered_impact / 8
+
+        understanding = row["EVAL_i_had_good_understanding"]
+        if understanding == "Agree":
+            understanding = "Somewhat agree"
+        good_understanding = agreement_list.index(understanding) + 1
+        sufficient_time = agreement_list.index(row["EVAL_i_had_sufficient_time"]) + 1
+        prepared_well_by_training = agreement_list.index(row["EVAL_training_prepared_me_well"]) + 1
+
+        data_to_add = [
+            id_of_row, duration, exp_risk_assessment, exp_blackbox, exp_developing_ml, exp_reading_ti_reports,
+            random_group,
+            rep_likelihood_correct[0], rep_likelihood_correct[1], rep_likelihood_correct[2], rep_likelihood_correct[3],
+            rep_likelihood_correct[4], rep_likelihood_correct[5], rep_likelihood_correct[6], rep_likelihood_correct[7],
+            total_likelihood_correct,
+            average_confidence_assessment, average_considered_impact,
+            good_understanding, sufficient_time, prepared_well_by_training
+        ]
+
+        new_df.loc[len(new_df)] = data_to_add
+
+    new_df.to_csv(details_respondents_step2_file, index=False)
+
+
+def create_box_plots():
+    responses_file = details_respondents_step2_file
+    df = pd.read_csv(responses_file)
+
+    # Create a boxplot grouped by 'exp_risk_assessment'
+    df.boxplot(column='total_likelihood_correct', by='good_understanding', grid=False)
+
+    # Customize the plot
+    plt.title('Boxplot of Total Likelihood Correct by Risk Assessment Category')
+    plt.suptitle('')  # Suppress the automatic title
+    plt.xlabel('x')
+    plt.ylabel('y')
+    plt.show()
 
 
 def main_pipeline():
     pre_processing()
+    generate_properties()
+    create_box_plots()
 
 
 if __name__ == '__main__':
