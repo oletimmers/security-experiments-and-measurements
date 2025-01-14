@@ -23,7 +23,6 @@ def define_details_about_students():
     pass
 
 
-
 def main_pipeline():
     pre_processing()
 
