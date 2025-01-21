@@ -158,7 +158,10 @@ def generate_scenario_rows():
         'objective',
         'subjective',
         # metric 2b
-        'trustworthy'
+        'trustworthy',
+        'dem_exp_risk_assessment',
+        'dem_exp_reading_ti_reports',
+        'per_likelihood_correct'
     ]
 
     new_df = pd.DataFrame(columns=columns)
@@ -182,11 +185,17 @@ def generate_scenario_rows():
             if col.startswith('RAND_') and row[col] > 0:
                 random_group = col[-1]
 
+        exp_risk_assessment = row['MLEX_exp_in_vulnerability_risk_assessment'].lower()
+        exp_reading_ti_reports = row['MLEX_exp_reading_threat_intelligence_reports'].lower()
+
         for i in range(1, 9):
             scenario_id = f"{i}_{random_group}"
             respondent_scenario_id = f"{id_of_respondent}-{scenario_id}"
             truth_row_for_this_report = ground_truth_df.loc[ground_truth_df['report_id'] == f"{scenario_id}"].iloc[
                 0]
+            own_likelihood = row[f"REP{i}_own_recomm_of_likelihood"]
+
+            likelihood_true = own_likelihood == truth_row_for_this_report['ncsc_likelihood']
 
             recommendation_source = truth_row_for_this_report['source'].split()[0].lower()
             consistent_recommendation = truth_row_for_this_report['recommendation'].split()[0].lower() == 'consistent'
@@ -220,7 +229,9 @@ def generate_scenario_rows():
                 agree_with_recommendation,
                 biased_prop, impartial_prop,
                 confidence_prop, objective_prop, impartial_prop,
-                trustworthy
+                trustworthy,
+                exp_risk_assessment, exp_reading_ti_reports,
+                likelihood_true
             ]
 
             new_df.loc[len(new_df)] = data_to_add

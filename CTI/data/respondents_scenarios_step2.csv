@@ -1,393 +1,393 @@
-respondent_scenario_id,respondent_id,scenario_id,recommendation_source,consistent_recommendation,agree_with_recommendation,biased,impartial,confident,objective,subjective,trustworthy
-R_3EGfkDfLBd8gpt0-1_I,R_3EGfkDfLBd8gpt0,1_I,human,True,5,2,4,3,4,4,3
-R_3EGfkDfLBd8gpt0-2_I,R_3EGfkDfLBd8gpt0,2_I,ai,False,5,2,4,3,4,4,3
-R_3EGfkDfLBd8gpt0-3_I,R_3EGfkDfLBd8gpt0,3_I,ai,True,5,2,4,3,4,4,2
-R_3EGfkDfLBd8gpt0-4_I,R_3EGfkDfLBd8gpt0,4_I,human,False,1,3,4,3,4,4,-2
-R_3EGfkDfLBd8gpt0-5_I,R_3EGfkDfLBd8gpt0,5_I,human,False,5,2,4,3,4,4,3
-R_3EGfkDfLBd8gpt0-6_I,R_3EGfkDfLBd8gpt0,6_I,ai,True,1,5,3,2,2,3,-7
-R_3EGfkDfLBd8gpt0-7_I,R_3EGfkDfLBd8gpt0,7_I,ai,False,1,4,4,1,2,4,-8
-R_3EGfkDfLBd8gpt0-8_I,R_3EGfkDfLBd8gpt0,8_I,human,True,5,2,4,3,4,4,3
-R_1i2JH7NwfAB6XPK-1_B,R_1i2JH7NwfAB6XPK,1_B,human,False,5,3,4,3,4,4,3
-R_1i2JH7NwfAB6XPK-2_B,R_1i2JH7NwfAB6XPK,2_B,ai,True,1,4,3,5,5,3,3
-R_1i2JH7NwfAB6XPK-3_B,R_1i2JH7NwfAB6XPK,3_B,ai,False,5,2,4,4,4,4,4
-R_1i2JH7NwfAB6XPK-4_B,R_1i2JH7NwfAB6XPK,4_B,human,True,1,3,4,3,4,4,-1
-R_1i2JH7NwfAB6XPK-5_B,R_1i2JH7NwfAB6XPK,5_B,human,True,1,2,4,4,4,4,1
-R_1i2JH7NwfAB6XPK-6_B,R_1i2JH7NwfAB6XPK,6_B,ai,False,1,4,2,3,4,2,0
-R_1i2JH7NwfAB6XPK-7_B,R_1i2JH7NwfAB6XPK,7_B,ai,True,1,4,2,3,4,2,-1
-R_1i2JH7NwfAB6XPK-8_B,R_1i2JH7NwfAB6XPK,8_B,human,False,1,5,2,2,1,2,-7
-R_VUU7Ro2T6DlZbQR-1_J,R_VUU7Ro2T6DlZbQR,1_J,human,False,1,2,4,3,4,4,0
-R_VUU7Ro2T6DlZbQR-2_J,R_VUU7Ro2T6DlZbQR,2_J,human,True,5,2,4,4,4,4,4
-R_VUU7Ro2T6DlZbQR-3_J,R_VUU7Ro2T6DlZbQR,3_J,ai,False,5,4,3,2,3,3,-1
-R_VUU7Ro2T6DlZbQR-4_J,R_VUU7Ro2T6DlZbQR,4_J,ai,True,1,4,2,3,4,2,0
-R_VUU7Ro2T6DlZbQR-5_J,R_VUU7Ro2T6DlZbQR,5_J,ai,True,1,4,2,3,4,2,-1
-R_VUU7Ro2T6DlZbQR-6_J,R_VUU7Ro2T6DlZbQR,6_J,ai,False,1,5,1,4,4,1,1
-R_VUU7Ro2T6DlZbQR-7_J,R_VUU7Ro2T6DlZbQR,7_J,human,True,5,2,4,3,3,4,2
-R_VUU7Ro2T6DlZbQR-8_J,R_VUU7Ro2T6DlZbQR,8_J,human,False,5,2,4,3,4,4,3
-R_RkUCuQCXlPpFqXD-1_A,R_RkUCuQCXlPpFqXD,1_A,human,True,5,1,4,4,5,4,5
-R_RkUCuQCXlPpFqXD-2_A,R_RkUCuQCXlPpFqXD,2_A,human,False,1,4,3,4,5,3,2
-R_RkUCuQCXlPpFqXD-3_A,R_RkUCuQCXlPpFqXD,3_A,ai,True,5,2,4,4,5,4,7
-R_RkUCuQCXlPpFqXD-4_A,R_RkUCuQCXlPpFqXD,4_A,ai,False,1,4,3,3,4,3,-1
-R_RkUCuQCXlPpFqXD-5_A,R_RkUCuQCXlPpFqXD,5_A,ai,False,1,4,3,2,5,3,0
-R_RkUCuQCXlPpFqXD-6_A,R_RkUCuQCXlPpFqXD,6_A,ai,True,1,4,3,4,4,3,1
-R_RkUCuQCXlPpFqXD-7_A,R_RkUCuQCXlPpFqXD,7_A,human,False,5,3,4,2,4,4,2
-R_RkUCuQCXlPpFqXD-8_A,R_RkUCuQCXlPpFqXD,8_A,human,True,5,2,4,1,2,4,-1
-R_2y7d0TAqsMCPDEj-1_B,R_2y7d0TAqsMCPDEj,1_B,human,False,5,3,3,1,1,3,-4
-R_2y7d0TAqsMCPDEj-2_B,R_2y7d0TAqsMCPDEj,2_B,ai,True,5,1,5,5,5,5,8
-R_2y7d0TAqsMCPDEj-3_B,R_2y7d0TAqsMCPDEj,3_B,ai,False,5,1,5,4,1,5,1
-R_2y7d0TAqsMCPDEj-4_B,R_2y7d0TAqsMCPDEj,4_B,human,True,1,4,2,4,4,2,1
-R_2y7d0TAqsMCPDEj-5_B,R_2y7d0TAqsMCPDEj,5_B,human,True,5,3,3,2,2,3,1
-R_2y7d0TAqsMCPDEj-6_B,R_2y7d0TAqsMCPDEj,6_B,ai,False,1,5,2,4,3,2,0
-R_2y7d0TAqsMCPDEj-7_B,R_2y7d0TAqsMCPDEj,7_B,ai,True,5,1,5,5,1,5,0
-R_2y7d0TAqsMCPDEj-8_B,R_2y7d0TAqsMCPDEj,8_B,human,False,1,3,3,1,1,3,-6
-R_31HKys4YJElIMIQ-1_C,R_31HKys4YJElIMIQ,1_C,ai,True,1,4,4,3,4,4,-4
-R_31HKys4YJElIMIQ-2_C,R_31HKys4YJElIMIQ,2_C,ai,False,5,2,5,4,4,5,2
-R_31HKys4YJElIMIQ-3_C,R_31HKys4YJElIMIQ,3_C,human,True,1,3,2,5,4,2,2
-R_31HKys4YJElIMIQ-4_C,R_31HKys4YJElIMIQ,4_C,human,False,1,4,4,4,5,4,-1
-R_31HKys4YJElIMIQ-5_C,R_31HKys4YJElIMIQ,5_C,human,False,5,2,4,3,4,4,1
-R_31HKys4YJElIMIQ-6_C,R_31HKys4YJElIMIQ,6_C,human,True,1,4,2,4,4,2,1
-R_31HKys4YJElIMIQ-7_C,R_31HKys4YJElIMIQ,7_C,ai,False,5,1,5,4,4,5,5
-R_31HKys4YJElIMIQ-8_C,R_31HKys4YJElIMIQ,8_C,ai,True,1,4,2,3,4,2,0
-R_2dtq2995ikhbeVP-1_F,R_2dtq2995ikhbeVP,1_F,human,False,5,2,4,4,5,4,6
-R_2dtq2995ikhbeVP-2_F,R_2dtq2995ikhbeVP,2_F,ai,False,1,4,3,2,2,3,-5
-R_2dtq2995ikhbeVP-3_F,R_2dtq2995ikhbeVP,3_F,human,True,1,4,3,3,4,3,-2
-R_2dtq2995ikhbeVP-4_F,R_2dtq2995ikhbeVP,4_F,ai,True,5,2,3,4,4,3,5
-R_2dtq2995ikhbeVP-5_F,R_2dtq2995ikhbeVP,5_F,ai,True,5,2,4,4,4,4,4
-R_2dtq2995ikhbeVP-6_F,R_2dtq2995ikhbeVP,6_F,human,True,1,3,3,1,3,3,-4
-R_2dtq2995ikhbeVP-7_F,R_2dtq2995ikhbeVP,7_F,ai,False,5,3,3,3,4,3,3
-R_2dtq2995ikhbeVP-8_F,R_2dtq2995ikhbeVP,8_F,human,False,5,3,3,2,3,3,1
-R_1LHhr9JGk71YpZ8-1_K,R_1LHhr9JGk71YpZ8,1_K,ai,True,5,1,4,4,5,4,7
-R_1LHhr9JGk71YpZ8-2_K,R_1LHhr9JGk71YpZ8,2_K,human,False,5,1,5,4,5,5,6
-R_1LHhr9JGk71YpZ8-3_K,R_1LHhr9JGk71YpZ8,3_K,human,True,5,2,3,2,4,3,2
-R_1LHhr9JGk71YpZ8-4_K,R_1LHhr9JGk71YpZ8,4_K,ai,False,5,1,4,4,5,4,7
-R_1LHhr9JGk71YpZ8-5_K,R_1LHhr9JGk71YpZ8,5_K,ai,False,1,3,3,1,4,3,-4
-R_1LHhr9JGk71YpZ8-6_K,R_1LHhr9JGk71YpZ8,6_K,human,True,5,1,3,4,5,3,8
-R_1LHhr9JGk71YpZ8-7_K,R_1LHhr9JGk71YpZ8,7_K,human,False,5,2,3,2,4,3,1
-R_1LHhr9JGk71YpZ8-8_K,R_1LHhr9JGk71YpZ8,8_K,ai,True,5,1,3,3,3,3,4
-R_2qg9VL97Lfr6kw5-1_L,R_2qg9VL97Lfr6kw5,1_L,ai,False,5,3,5,5,5,5,3
-R_2qg9VL97Lfr6kw5-2_L,R_2qg9VL97Lfr6kw5,2_L,ai,True,5,3,4,4,5,4,3
-R_2qg9VL97Lfr6kw5-3_L,R_2qg9VL97Lfr6kw5,3_L,human,False,1,3,4,5,5,4,0
-R_2qg9VL97Lfr6kw5-4_L,R_2qg9VL97Lfr6kw5,4_L,human,True,5,3,4,3,4,4,2
-R_2qg9VL97Lfr6kw5-5_L,R_2qg9VL97Lfr6kw5,5_L,human,True,5,3,4,4,4,4,3
-R_2qg9VL97Lfr6kw5-6_L,R_2qg9VL97Lfr6kw5,6_L,human,False,1,3,4,2,4,4,-2
-R_2qg9VL97Lfr6kw5-7_L,R_2qg9VL97Lfr6kw5,7_L,ai,True,5,3,3,5,4,3,5
-R_2qg9VL97Lfr6kw5-8_L,R_2qg9VL97Lfr6kw5,8_L,ai,False,1,3,3,1,3,3,-3
-R_1LGpWj3o7NoxbDe-1_E,R_1LGpWj3o7NoxbDe,1_E,human,True,5,2,4,3,4,4,4
-R_1LGpWj3o7NoxbDe-2_E,R_1LGpWj3o7NoxbDe,2_E,ai,True,5,1,5,4,5,5,7
-R_1LGpWj3o7NoxbDe-3_E,R_1LGpWj3o7NoxbDe,3_E,ai,False,5,2,4,2,4,4,3
-R_1LGpWj3o7NoxbDe-4_E,R_1LGpWj3o7NoxbDe,4_E,human,False,1,4,2,2,4,2,0
-R_1LGpWj3o7NoxbDe-5_E,R_1LGpWj3o7NoxbDe,5_E,human,False,5,3,3,1,3,3,1
-R_1LGpWj3o7NoxbDe-6_E,R_1LGpWj3o7NoxbDe,6_E,ai,False,1,4,2,4,4,2,1
-R_1LGpWj3o7NoxbDe-7_E,R_1LGpWj3o7NoxbDe,7_E,ai,True,5,2,4,4,4,4,6
-R_1LGpWj3o7NoxbDe-8_E,R_1LGpWj3o7NoxbDe,8_E,human,True,5,2,4,2,4,4,2
-R_Y5ez3SNeaB0f505-1_F,R_Y5ez3SNeaB0f505,1_F,human,False,5,2,4,4,4,4,5
-R_Y5ez3SNeaB0f505-2_F,R_Y5ez3SNeaB0f505,2_F,ai,False,5,2,4,3,4,4,4
-R_Y5ez3SNeaB0f505-3_F,R_Y5ez3SNeaB0f505,3_F,human,True,1,2,4,4,4,4,1
-R_Y5ez3SNeaB0f505-4_F,R_Y5ez3SNeaB0f505,4_F,ai,True,5,2,4,4,5,4,6
-R_Y5ez3SNeaB0f505-5_F,R_Y5ez3SNeaB0f505,5_F,ai,True,1,3,3,4,4,3,1
-R_Y5ez3SNeaB0f505-6_F,R_Y5ez3SNeaB0f505,6_F,human,True,1,2,4,3,4,4,0
-R_Y5ez3SNeaB0f505-7_F,R_Y5ez3SNeaB0f505,7_F,ai,False,5,2,4,4,4,4,5
-R_Y5ez3SNeaB0f505-8_F,R_Y5ez3SNeaB0f505,8_F,human,False,1,2,4,3,4,4,0
-R_2EhMVn7uXsZu9Ay-1_I,R_2EhMVn7uXsZu9Ay,1_I,human,True,5,2,4,4,4,4,3
-R_2EhMVn7uXsZu9Ay-2_I,R_2EhMVn7uXsZu9Ay,2_I,ai,False,5,4,3,4,4,3,2
-R_2EhMVn7uXsZu9Ay-3_I,R_2EhMVn7uXsZu9Ay,3_I,ai,True,1,4,3,4,4,3,-1
-R_2EhMVn7uXsZu9Ay-4_I,R_2EhMVn7uXsZu9Ay,4_I,human,False,5,2,4,4,4,4,4
-R_2EhMVn7uXsZu9Ay-5_I,R_2EhMVn7uXsZu9Ay,5_I,human,False,5,3,4,4,4,4,3
-R_2EhMVn7uXsZu9Ay-6_I,R_2EhMVn7uXsZu9Ay,6_I,ai,True,1,2,4,1,3,4,-5
-R_2EhMVn7uXsZu9Ay-7_I,R_2EhMVn7uXsZu9Ay,7_I,ai,False,5,2,4,2,3,4,2
-R_2EhMVn7uXsZu9Ay-8_I,R_2EhMVn7uXsZu9Ay,8_I,human,True,5,2,4,4,4,4,3
-R_2TsFKpba3f8ZKwT-1_H,R_2TsFKpba3f8ZKwT,1_H,ai,False,1,5,1,4,5,1,2
-R_2TsFKpba3f8ZKwT-2_H,R_2TsFKpba3f8ZKwT,2_H,human,False,1,4,2,4,4,2,1
-R_2TsFKpba3f8ZKwT-3_H,R_2TsFKpba3f8ZKwT,3_H,ai,True,5,1,5,4,5,5,7
-R_2TsFKpba3f8ZKwT-4_H,R_2TsFKpba3f8ZKwT,4_H,human,True,5,2,4,2,3,4,1
-R_2TsFKpba3f8ZKwT-5_H,R_2TsFKpba3f8ZKwT,5_H,human,True,5,1,5,4,4,5,5
-R_2TsFKpba3f8ZKwT-6_H,R_2TsFKpba3f8ZKwT,6_H,ai,True,1,3,2,1,1,2,-7
-R_2TsFKpba3f8ZKwT-7_H,R_2TsFKpba3f8ZKwT,7_H,human,False,5,1,4,3,2,4,1
-R_2TsFKpba3f8ZKwT-8_H,R_2TsFKpba3f8ZKwT,8_H,ai,False,1,3,3,1,2,3,-6
-R_1N4ANeme2d47raB-1_K,R_1N4ANeme2d47raB,1_K,ai,True,5,4,2,4,4,2,5
-R_1N4ANeme2d47raB-2_K,R_1N4ANeme2d47raB,2_K,human,False,1,4,4,4,5,4,1
-R_1N4ANeme2d47raB-3_K,R_1N4ANeme2d47raB,3_K,human,True,1,4,1,5,5,1,5
-R_1N4ANeme2d47raB-4_K,R_1N4ANeme2d47raB,4_K,ai,False,1,5,1,4,4,1,2
-R_1N4ANeme2d47raB-5_K,R_1N4ANeme2d47raB,5_K,ai,False,5,4,2,3,4,2,5
-R_1N4ANeme2d47raB-6_K,R_1N4ANeme2d47raB,6_K,human,True,5,1,5,4,5,5,7
-R_1N4ANeme2d47raB-7_K,R_1N4ANeme2d47raB,7_K,human,False,1,4,2,4,5,2,3
-R_1N4ANeme2d47raB-8_K,R_1N4ANeme2d47raB,8_K,ai,True,1,4,2,4,5,2,3
-R_3snaNiQAsiWvYIu-1_G,R_3snaNiQAsiWvYIu,1_G,ai,True,1,2,3,3,5,3,3
-R_3snaNiQAsiWvYIu-2_G,R_3snaNiQAsiWvYIu,2_G,human,True,5,1,1,2,4,1,7
-R_3snaNiQAsiWvYIu-3_G,R_3snaNiQAsiWvYIu,3_G,human,False,1,3,4,2,4,4,-2
-R_3snaNiQAsiWvYIu-4_G,R_3snaNiQAsiWvYIu,4_G,ai,False,1,4,2,4,4,2,2
-R_3snaNiQAsiWvYIu-5_G,R_3snaNiQAsiWvYIu,5_G,ai,False,1,3,3,2,4,3,0
-R_3snaNiQAsiWvYIu-6_G,R_3snaNiQAsiWvYIu,6_G,human,False,1,2,4,2,4,4,0
-R_3snaNiQAsiWvYIu-7_G,R_3snaNiQAsiWvYIu,7_G,human,True,5,1,5,1,4,5,3
-R_3snaNiQAsiWvYIu-8_G,R_3snaNiQAsiWvYIu,8_G,ai,True,5,2,4,2,3,4,2
-R_3nUahgRuPNRinIl-1_D,R_3nUahgRuPNRinIl,1_D,ai,False,5,2,2,4,4,2,6
-R_3nUahgRuPNRinIl-2_D,R_3nUahgRuPNRinIl,2_D,human,True,1,4,3,4,4,3,-1
-R_3nUahgRuPNRinIl-3_D,R_3nUahgRuPNRinIl,3_D,human,False,1,3,2,4,4,2,1
-R_3nUahgRuPNRinIl-4_D,R_3nUahgRuPNRinIl,4_D,ai,True,1,3,2,3,4,2,0
-R_3nUahgRuPNRinIl-5_D,R_3nUahgRuPNRinIl,5_D,ai,True,1,3,2,2,4,2,-1
-R_3nUahgRuPNRinIl-6_D,R_3nUahgRuPNRinIl,6_D,human,False,5,3,2,2,4,2,3
-R_3nUahgRuPNRinIl-7_D,R_3nUahgRuPNRinIl,7_D,human,True,5,2,3,2,4,3,3
-R_3nUahgRuPNRinIl-8_D,R_3nUahgRuPNRinIl,8_D,ai,False,5,3,2,3,4,2,4
-R_Wp3dQ2943lYAQc9-1_B,R_Wp3dQ2943lYAQc9,1_B,human,False,5,3,4,3,2,4,0
-R_Wp3dQ2943lYAQc9-2_B,R_Wp3dQ2943lYAQc9,2_B,ai,True,5,1,5,4,4,5,5
-R_Wp3dQ2943lYAQc9-3_B,R_Wp3dQ2943lYAQc9,3_B,ai,False,5,3,2,3,2,2,1
-R_Wp3dQ2943lYAQc9-4_B,R_Wp3dQ2943lYAQc9,4_B,human,True,5,2,4,2,2,4,-1
-R_Wp3dQ2943lYAQc9-5_B,R_Wp3dQ2943lYAQc9,5_B,human,True,5,3,2,4,4,2,6
-R_Wp3dQ2943lYAQc9-6_B,R_Wp3dQ2943lYAQc9,6_B,ai,False,1,5,5,1,1,5,-12
-R_Wp3dQ2943lYAQc9-7_B,R_Wp3dQ2943lYAQc9,7_B,ai,True,5,1,5,4,5,5,7
-R_Wp3dQ2943lYAQc9-8_B,R_Wp3dQ2943lYAQc9,8_B,human,False,5,3,3,2,2,3,-1
-R_20UpOgvQsuN7P5d-1_G,R_20UpOgvQsuN7P5d,1_G,ai,True,5,4,4,2,4,4,1
-R_20UpOgvQsuN7P5d-2_G,R_20UpOgvQsuN7P5d,2_G,human,True,1,3,4,2,4,4,-2
-R_20UpOgvQsuN7P5d-3_G,R_20UpOgvQsuN7P5d,3_G,human,False,5,3,4,2,4,4,2
-R_20UpOgvQsuN7P5d-4_G,R_20UpOgvQsuN7P5d,4_G,ai,False,5,3,4,2,3,4,1
-R_20UpOgvQsuN7P5d-5_G,R_20UpOgvQsuN7P5d,5_G,ai,False,1,3,4,2,3,4,-3
-R_20UpOgvQsuN7P5d-6_G,R_20UpOgvQsuN7P5d,6_G,human,False,5,3,4,2,3,4,1
-R_20UpOgvQsuN7P5d-7_G,R_20UpOgvQsuN7P5d,7_G,human,True,5,3,4,2,3,4,0
-R_20UpOgvQsuN7P5d-8_G,R_20UpOgvQsuN7P5d,8_G,ai,True,5,3,4,2,3,4,1
-R_DqqEGiQ2MzPUReV-1_C,R_DqqEGiQ2MzPUReV,1_C,ai,True,1,1,5,3,5,5,1
-R_DqqEGiQ2MzPUReV-2_C,R_DqqEGiQ2MzPUReV,2_C,ai,False,5,1,5,4,5,5,6
-R_DqqEGiQ2MzPUReV-3_C,R_DqqEGiQ2MzPUReV,3_C,human,True,1,4,3,4,5,3,2
-R_DqqEGiQ2MzPUReV-4_C,R_DqqEGiQ2MzPUReV,4_C,human,False,5,1,5,3,5,5,6
-R_DqqEGiQ2MzPUReV-5_C,R_DqqEGiQ2MzPUReV,5_C,human,False,5,1,1,4,5,1,10
-R_DqqEGiQ2MzPUReV-6_C,R_DqqEGiQ2MzPUReV,6_C,human,True,5,1,5,3,5,5,6
-R_DqqEGiQ2MzPUReV-7_C,R_DqqEGiQ2MzPUReV,7_C,ai,False,5,3,3,3,1,3,-1
-R_DqqEGiQ2MzPUReV-8_C,R_DqqEGiQ2MzPUReV,8_C,ai,True,1,1,5,3,3,5,-3
-R_1gbVSi0s51Cj6n8-1_L,R_1gbVSi0s51Cj6n8,1_L,ai,False,1,4,2,3,2,2,-2
-R_1gbVSi0s51Cj6n8-2_L,R_1gbVSi0s51Cj6n8,2_L,ai,True,5,2,4,4,4,4,6
-R_1gbVSi0s51Cj6n8-3_L,R_1gbVSi0s51Cj6n8,3_L,human,False,1,4,3,3,2,3,-4
-R_1gbVSi0s51Cj6n8-4_L,R_1gbVSi0s51Cj6n8,4_L,human,True,5,2,4,2,2,4,1
-R_1gbVSi0s51Cj6n8-5_L,R_1gbVSi0s51Cj6n8,5_L,human,True,1,3,3,2,2,3,-5
-R_1gbVSi0s51Cj6n8-6_L,R_1gbVSi0s51Cj6n8,6_L,human,False,5,2,4,3,4,4,5
-R_1gbVSi0s51Cj6n8-7_L,R_1gbVSi0s51Cj6n8,7_L,ai,True,1,2,4,2,4,4,-1
-R_1gbVSi0s51Cj6n8-8_L,R_1gbVSi0s51Cj6n8,8_L,ai,False,1,4,2,1,2,2,-4
-R_222EEE1-1_E,R_222EEE1,1_E,human,True,5,2,4,4,3,4,3
-R_222EEE1-2_E,R_222EEE1,2_E,ai,True,1,4,3,3,3,3,-2
-R_222EEE1-3_E,R_222EEE1,3_E,ai,False,5,3,3,3,4,3,3
-R_222EEE1-4_E,R_222EEE1,4_E,human,False,5,2,4,3,4,4,3
-R_222EEE1-5_E,R_222EEE1,5_E,human,False,1,4,2,4,4,2,-1
-R_222EEE1-6_E,R_222EEE1,6_E,ai,False,1,4,2,4,4,2,1
-R_222EEE1-7_E,R_222EEE1,7_E,ai,True,5,2,4,3,4,4,4
-R_222EEE1-8_E,R_222EEE1,8_E,human,True,1,4,2,3,3,2,-2
-R_222EEE2-1_B,R_222EEE2,1_B,human,False,1,2,4,3,4,4,1
-R_222EEE2-2_B,R_222EEE2,2_B,ai,True,1,4,2,3,5,2,2
-R_222EEE2-3_B,R_222EEE2,3_B,ai,False,1,4,2,2,4,2,-1
-R_222EEE2-4_B,R_222EEE2,4_B,human,True,5,2,4,2,3,4,2
-R_222EEE2-5_B,R_222EEE2,5_B,human,True,1,3,3,2,3,3,-2
-R_222EEE2-6_B,R_222EEE2,6_B,ai,False,5,2,4,2,4,4,3
-R_222EEE2-7_B,R_222EEE2,7_B,ai,True,1,4,2,2,4,2,-1
-R_222EEE2-8_B,R_222EEE2,8_B,human,False,1,5,1,4,2,1,-1
-R_222EEE3-1_L,R_222EEE3,1_L,ai,False,1,2,4,4,4,4,1
-R_222EEE3-2_L,R_222EEE3,2_L,ai,True,1,5,1,4,4,1,1
-R_222EEE3-3_L,R_222EEE3,3_L,human,False,5,1,5,5,5,5,8
-R_222EEE3-4_L,R_222EEE3,4_L,human,True,1,4,2,4,4,2,1
-R_222EEE3-5_L,R_222EEE3,5_L,human,True,1,3,3,4,4,3,1
-R_222EEE3-6_L,R_222EEE3,6_L,human,False,5,4,2,1,1,2,-3
-R_222EEE3-7_L,R_222EEE3,7_L,ai,True,1,5,2,1,1,2,-8
-R_222EEE3-8_L,R_222EEE3,8_L,ai,False,1,4,2,2,2,2,-5
-R_222EEE4-1_G,R_222EEE4,1_G,ai,True,5,3,4,4,4,4,4
-R_222EEE4-2_G,R_222EEE4,2_G,human,True,5,2,4,5,4,4,6
-R_222EEE4-3_G,R_222EEE4,3_G,human,False,1,3,4,4,5,4,0
-R_222EEE4-4_G,R_222EEE4,4_G,ai,False,1,4,2,4,5,2,1
-R_222EEE4-5_G,R_222EEE4,5_G,ai,False,5,2,4,4,4,4,6
-R_222EEE4-6_G,R_222EEE4,6_G,human,False,1,4,2,4,5,2,2
-R_222EEE4-7_G,R_222EEE4,7_G,human,True,5,3,2,4,4,2,5
-R_222EEE4-8_G,R_222EEE4,8_G,ai,True,5,3,4,4,4,4,5
-R_222EEE5-1_G,R_222EEE5,1_G,ai,True,5,3,3,2,4,3,1
-R_222EEE5-2_G,R_222EEE5,2_G,human,True,5,2,4,3,4,4,4
-R_222EEE5-3_G,R_222EEE5,3_G,human,False,5,4,2,3,4,2,2
-R_222EEE5-4_G,R_222EEE5,4_G,ai,False,1,4,2,3,4,2,-1
-R_222EEE5-5_G,R_222EEE5,5_G,ai,False,1,4,2,3,3,2,-2
-R_222EEE5-6_G,R_222EEE5,6_G,human,False,1,3,4,4,3,4,-1
-R_222EEE5-7_G,R_222EEE5,7_G,human,True,1,4,2,4,4,2,2
-R_222EEE5-8_G,R_222EEE5,8_G,ai,True,1,3,3,2,2,3,-6
-R_222EEE6-1_K,R_222EEE6,1_K,ai,True,1,1,5,4,5,5,1
-R_222EEE6-2_K,R_222EEE6,2_K,human,False,5,2,5,4,4,5,4
-R_222EEE6-3_K,R_222EEE6,3_K,human,True,5,1,5,4,5,5,7
-R_222EEE6-4_K,R_222EEE6,4_K,ai,False,1,1,5,3,2,5,-3
-R_222EEE6-5_K,R_222EEE6,5_K,ai,False,5,1,5,4,4,5,5
-R_222EEE6-6_K,R_222EEE6,6_K,human,True,1,1,5,4,4,5,1
-R_222EEE6-7_K,R_222EEE6,7_K,human,False,5,1,5,4,4,5,5
-R_222EEE6-8_K,R_222EEE6,8_K,ai,True,1,1,5,2,3,5,-3
-R_222EEE7-1_H,R_222EEE7,1_H,ai,False,5,2,2,4,2,2,5
-R_222EEE7-2_H,R_222EEE7,2_H,human,False,5,2,5,4,5,5,5
-R_222EEE7-3_H,R_222EEE7,3_H,ai,True,1,4,2,4,4,2,1
-R_222EEE7-4_H,R_222EEE7,4_H,human,True,5,2,5,5,4,5,5
-R_222EEE7-5_H,R_222EEE7,5_H,human,True,5,2,4,4,4,4,5
-R_222EEE7-6_H,R_222EEE7,6_H,ai,True,1,4,2,4,4,2,1
-R_222EEE7-7_H,R_222EEE7,7_H,human,False,5,2,4,4,4,4,5
-R_222EEE7-8_H,R_222EEE7,8_H,ai,False,1,5,2,4,4,2,1
-R_222EEE8-1_H,R_222EEE8,1_H,ai,False,5,3,4,2,2,4,-1
-R_222EEE8-2_H,R_222EEE8,2_H,human,False,5,2,4,4,3,4,4
-R_222EEE8-3_H,R_222EEE8,3_H,ai,True,1,3,4,3,3,4,-3
-R_222EEE8-4_H,R_222EEE8,4_H,human,True,1,3,4,3,3,4,-3
-R_222EEE8-5_H,R_222EEE8,5_H,human,True,5,3,4,4,3,4,2
-R_222EEE8-6_H,R_222EEE8,6_H,ai,True,5,2,4,2,3,4,1
-R_222EEE8-7_H,R_222EEE8,7_H,human,False,5,2,4,2,2,4,1
-R_222EEE8-8_H,R_222EEE8,8_H,ai,False,5,2,4,4,3,4,3
-R_222EEE9-1_C,R_222EEE9,1_C,ai,True,5,3,3,2,4,3,4
-R_222EEE9-2_C,R_222EEE9,2_C,ai,False,1,4,2,2,3,2,-1
-R_222EEE9-3_C,R_222EEE9,3_C,human,True,5,2,2,3,3,2,4
-R_222EEE9-4_C,R_222EEE9,4_C,human,False,5,3,4,2,3,4,1
-R_222EEE9-5_C,R_222EEE9,5_C,human,False,5,2,4,1,2,4,1
-R_222EEE9-6_C,R_222EEE9,6_C,human,True,5,2,3,2,3,3,3
-R_222EEE9-7_C,R_222EEE9,7_C,ai,False,5,3,3,1,3,3,1
-R_222EEE9-8_C,R_222EEE9,8_C,ai,True,1,3,3,1,3,3,-3
-R_222EEE10-1_K,R_222EEE10,1_K,ai,True,5,3,3,4,4,3,4
-R_222EEE10-2_K,R_222EEE10,2_K,human,False,1,5,2,4,4,2,-1
-R_222EEE10-3_K,R_222EEE10,3_K,human,True,5,1,5,5,5,5,8
-R_222EEE10-4_K,R_222EEE10,4_K,ai,False,1,4,2,3,3,2,-3
-R_222EEE10-5_K,R_222EEE10,5_K,ai,False,5,1,5,4,5,5,7
-R_222EEE10-6_K,R_222EEE10,6_K,human,True,1,5,1,3,4,1,0
-R_222EEE10-7_K,R_222EEE10,7_K,human,False,5,2,4,3,3,4,2
-R_222EEE10-8_K,R_222EEE10,8_K,ai,True,1,4,2,4,5,2,2
-R_222EEE11-1_C,R_222EEE11,1_C,ai,True,5,2,3,5,5,3,7
-R_222EEE11-2_C,R_222EEE11,2_C,ai,False,1,4,4,5,4,4,-1
-R_222EEE11-3_C,R_222EEE11,3_C,human,True,5,2,2,5,5,2,9
-R_222EEE11-4_C,R_222EEE11,4_C,human,False,5,1,2,5,4,2,9
-R_222EEE11-5_C,R_222EEE11,5_C,human,False,5,2,4,5,5,4,7
-R_222EEE11-6_C,R_222EEE11,6_C,human,True,5,2,4,5,5,4,7
-R_222EEE11-7_C,R_222EEE11,7_C,ai,False,1,4,4,5,5,4,0
-R_222EEE11-8_C,R_222EEE11,8_C,ai,True,5,3,4,3,3,4,0
-R_222EEE12-1_F,R_222EEE12,1_F,human,False,1,4,2,3,4,2,0
-R_222EEE12-2_F,R_222EEE12,2_F,ai,False,1,4,2,2,3,2,-2
-R_222EEE12-3_F,R_222EEE12,3_F,human,True,5,2,3,3,3,3,4
-R_222EEE12-4_F,R_222EEE12,4_F,ai,True,1,3,2,2,3,2,-1
-R_222EEE12-5_F,R_222EEE12,5_F,ai,True,5,3,3,2,4,3,3
-R_222EEE12-6_F,R_222EEE12,6_F,human,True,1,4,2,2,3,2,-2
-R_222EEE12-7_F,R_222EEE12,7_F,ai,False,1,3,3,2,3,3,-2
-R_222EEE12-8_F,R_222EEE12,8_F,human,False,5,3,3,1,3,3,1
-R_222EEE13-1_J,R_222EEE13,1_J,human,False,5,2,4,4,4,4,4
-R_222EEE13-2_J,R_222EEE13,2_J,human,True,5,3,3,4,4,3,3
-R_222EEE13-3_J,R_222EEE13,3_J,ai,False,1,3,4,5,4,4,-1
-R_222EEE13-4_J,R_222EEE13,4_J,ai,True,5,3,4,4,4,4,3
-R_222EEE13-5_J,R_222EEE13,5_J,ai,True,5,3,3,4,4,3,3
-R_222EEE13-6_J,R_222EEE13,6_J,ai,False,5,4,2,4,4,2,3
-R_222EEE13-7_J,R_222EEE13,7_J,human,True,5,4,4,3,4,4,0
-R_222EEE13-8_J,R_222EEE13,8_J,human,False,1,5,2,2,3,2,-5
-R_222EEE14-1_B,R_222EEE14,1_B,human,False,1,5,5,5,5,5,0
-R_222EEE14-2_B,R_222EEE14,2_B,ai,True,1,5,2,5,5,2,3
-R_222EEE14-3_B,R_222EEE14,3_B,ai,False,1,2,3,5,5,3,4
-R_222EEE14-4_B,R_222EEE14,4_B,human,True,5,1,2,5,5,2,11
-R_222EEE14-5_B,R_222EEE14,5_B,human,True,1,5,5,5,5,5,-3
-R_222EEE14-6_B,R_222EEE14,6_B,ai,False,5,3,3,5,5,3,7
-R_222EEE14-7_B,R_222EEE14,7_B,ai,True,5,2,2,5,5,2,9
-R_222EEE14-8_B,R_222EEE14,8_B,human,False,5,2,2,5,5,2,9
-R_222EEE15-1_L,R_222EEE15,1_L,ai,False,1,4,2,4,2,2,-1
-R_222EEE15-2_L,R_222EEE15,2_L,ai,True,1,4,3,2,3,3,-5
-R_222EEE15-3_L,R_222EEE15,3_L,human,False,1,4,3,3,3,3,-4
-R_222EEE15-4_L,R_222EEE15,4_L,human,True,1,3,3,1,3,3,-5
-R_222EEE15-5_L,R_222EEE15,5_L,human,True,5,1,5,4,5,5,6
-R_222EEE15-6_L,R_222EEE15,6_L,human,False,1,4,2,3,2,2,-2
-R_222EEE15-7_L,R_222EEE15,7_L,ai,True,5,4,4,3,2,4,-2
-R_222EEE15-8_L,R_222EEE15,8_L,ai,False,5,2,4,4,4,4,6
-R_222EEE16-1_A,R_222EEE16,1_A,human,True,1,3,4,2,4,4,-3
-R_222EEE16-2_A,R_222EEE16,2_A,human,False,5,2,4,3,2,4,1
-R_222EEE16-3_A,R_222EEE16,3_A,ai,True,1,3,3,1,3,3,-4
-R_222EEE16-4_A,R_222EEE16,4_A,ai,False,1,2,3,2,4,3,-1
-R_222EEE16-5_A,R_222EEE16,5_A,ai,False,5,3,4,1,3,4,1
-R_222EEE16-6_A,R_222EEE16,6_A,ai,True,5,3,1,1,2,1,1
-R_222EEE16-7_A,R_222EEE16,7_A,human,False,5,4,3,1,2,3,-2
-R_222EEE16-8_A,R_222EEE16,8_A,human,True,5,3,4,1,2,4,-2
-R_222EEE17-1_F,R_222EEE17,1_F,human,False,5,2,4,4,4,4,5
-R_222EEE17-2_F,R_222EEE17,2_F,ai,False,5,1,4,3,2,4,3
-R_222EEE17-3_F,R_222EEE17,3_F,human,True,5,4,2,4,4,2,5
-R_222EEE17-4_F,R_222EEE17,4_F,ai,True,5,4,2,2,2,2,0
-R_222EEE17-5_F,R_222EEE17,5_F,ai,True,1,3,3,3,3,3,-2
-R_222EEE17-6_F,R_222EEE17,6_F,human,True,1,5,4,3,2,4,-5
-R_222EEE17-7_F,R_222EEE17,7_F,ai,False,1,2,4,2,4,4,-1
-R_222EEE17-8_F,R_222EEE17,8_F,human,False,5,5,5,1,1,5,-8
-R_222EEE18-1_J,R_222EEE18,1_J,human,False,1,4,2,5,4,2,0
-R_222EEE18-2_J,R_222EEE18,2_J,human,True,5,3,2,5,3,2,4
-R_222EEE18-3_J,R_222EEE18,3_J,ai,False,1,5,4,5,4,4,-3
-R_222EEE18-4_J,R_222EEE18,4_J,ai,True,5,2,5,3,3,5,1
-R_222EEE18-5_J,R_222EEE18,5_J,ai,True,5,3,4,3,3,4,1
-R_222EEE18-6_J,R_222EEE18,6_J,ai,False,5,2,3,3,4,3,3
-R_222EEE18-7_J,R_222EEE18,7_J,human,True,1,3,5,2,2,5,-7
-R_222EEE18-8_J,R_222EEE18,8_J,human,False,1,5,5,3,3,5,-7
-R_222EEE19-1_D,R_222EEE19,1_D,ai,False,5,2,2,4,5,2,9
-R_222EEE19-2_D,R_222EEE19,2_D,human,True,5,1,2,4,5,2,10
-R_222EEE19-3_D,R_222EEE19,3_D,human,False,5,2,2,3,4,2,5
-R_222EEE19-4_D,R_222EEE19,4_D,ai,True,5,4,3,3,3,3,1
-R_222EEE19-5_D,R_222EEE19,5_D,ai,True,1,3,3,4,4,3,1
-R_222EEE19-6_D,R_222EEE19,6_D,human,False,1,4,4,3,3,4,-4
-R_222EEE19-7_D,R_222EEE19,7_D,human,True,5,3,3,2,3,3,1
-R_222EEE19-8_D,R_222EEE19,8_D,ai,False,1,2,3,3,4,3,1
-R_222EEE20-1_A,R_222EEE20,1_A,human,True,5,2,4,3,4,4,4
-R_222EEE20-2_A,R_222EEE20,2_A,human,False,5,5,4,3,4,4,1
-R_222EEE20-3_A,R_222EEE20,3_A,ai,True,1,3,3,2,4,3,-1
-R_222EEE20-4_A,R_222EEE20,4_A,ai,False,1,3,3,3,4,3,0
-R_222EEE20-5_A,R_222EEE20,5_A,ai,False,1,2,2,3,4,2,2
-R_222EEE20-6_A,R_222EEE20,6_A,ai,True,5,2,3,2,4,3,4
-R_222EEE20-7_A,R_222EEE20,7_A,human,False,5,2,4,3,4,4,4
-R_222EEE20-8_A,R_222EEE20,8_A,human,True,5,2,4,4,5,4,7
-R_222EEE21-1_D,R_222EEE21,1_D,ai,False,1,4,2,4,4,2,1
-R_222EEE21-2_D,R_222EEE21,2_D,human,True,5,1,5,4,4,5,6
-R_222EEE21-3_D,R_222EEE21,3_D,human,False,5,2,4,4,4,4,5
-R_222EEE21-4_D,R_222EEE21,4_D,ai,True,1,4,2,4,4,2,1
-R_222EEE21-5_D,R_222EEE21,5_D,ai,True,1,3,3,4,4,3,1
-R_222EEE21-6_D,R_222EEE21,6_D,human,False,1,3,3,4,3,3,0
-R_222EEE21-7_D,R_222EEE21,7_D,human,True,5,2,4,4,4,4,5
-R_222EEE21-8_D,R_222EEE21,8_D,ai,False,1,3,3,3,3,3,-1
-R_2XisQcp2nwPU39D-1_C,R_2XisQcp2nwPU39D,1_C,ai,True,5,4,3,4,4,3,3
-R_2XisQcp2nwPU39D-2_C,R_2XisQcp2nwPU39D,2_C,ai,False,1,1,4,4,5,4,3
-R_2XisQcp2nwPU39D-3_C,R_2XisQcp2nwPU39D,3_C,human,True,5,2,4,4,3,4,3
-R_2XisQcp2nwPU39D-4_C,R_2XisQcp2nwPU39D,4_C,human,False,1,2,4,4,5,4,1
-R_2XisQcp2nwPU39D-5_C,R_2XisQcp2nwPU39D,5_C,human,False,1,4,3,4,4,3,-1
-R_2XisQcp2nwPU39D-6_C,R_2XisQcp2nwPU39D,6_C,human,True,1,3,3,3,3,3,-2
-R_2XisQcp2nwPU39D-7_C,R_2XisQcp2nwPU39D,7_C,ai,False,1,2,4,4,4,4,1
-R_2XisQcp2nwPU39D-8_C,R_2XisQcp2nwPU39D,8_C,ai,True,5,3,3,3,2,3,1
-R_8QrPGt5CNvLd1lp-1_D,R_8QrPGt5CNvLd1lp,1_D,ai,False,5,2,4,4,4,4,6
-R_8QrPGt5CNvLd1lp-2_D,R_8QrPGt5CNvLd1lp,2_D,human,True,5,2,4,4,4,4,5
-R_8QrPGt5CNvLd1lp-3_D,R_8QrPGt5CNvLd1lp,3_D,human,False,1,4,3,2,3,3,-3
-R_8QrPGt5CNvLd1lp-4_D,R_8QrPGt5CNvLd1lp,4_D,ai,True,1,5,2,2,4,2,-3
-R_8QrPGt5CNvLd1lp-5_D,R_8QrPGt5CNvLd1lp,5_D,ai,True,5,2,4,2,4,4,2
-R_8QrPGt5CNvLd1lp-6_D,R_8QrPGt5CNvLd1lp,6_D,human,False,1,4,2,2,4,2,-1
-R_8QrPGt5CNvLd1lp-7_D,R_8QrPGt5CNvLd1lp,7_D,human,True,5,2,4,1,4,4,0
-R_8QrPGt5CNvLd1lp-8_D,R_8QrPGt5CNvLd1lp,8_D,ai,False,5,2,4,1,4,4,1
-R_2k7mVNKwRjNl6KQ-1_B,R_2k7mVNKwRjNl6KQ,1_B,human,False,1,1,5,4,5,5,2
-R_2k7mVNKwRjNl6KQ-2_B,R_2k7mVNKwRjNl6KQ,2_B,ai,True,1,3,3,5,5,3,4
-R_2k7mVNKwRjNl6KQ-3_B,R_2k7mVNKwRjNl6KQ,3_B,ai,False,1,2,4,4,5,4,3
-R_2k7mVNKwRjNl6KQ-4_B,R_2k7mVNKwRjNl6KQ,4_B,human,True,5,1,4,4,5,4,8
-R_2k7mVNKwRjNl6KQ-5_B,R_2k7mVNKwRjNl6KQ,5_B,human,True,5,1,5,4,5,5,7
-R_2k7mVNKwRjNl6KQ-6_B,R_2k7mVNKwRjNl6KQ,6_B,ai,False,5,1,5,5,5,5,8
-R_2k7mVNKwRjNl6KQ-7_B,R_2k7mVNKwRjNl6KQ,7_B,ai,True,1,4,2,5,5,2,4
-R_2k7mVNKwRjNl6KQ-8_B,R_2k7mVNKwRjNl6KQ,8_B,human,False,5,2,4,3,3,4,3
-R_2VmACIXjENL5z7H-1_G,R_2VmACIXjENL5z7H,1_G,ai,True,5,2,4,4,4,4,6
-R_2VmACIXjENL5z7H-2_G,R_2VmACIXjENL5z7H,2_G,human,True,5,2,5,5,5,5,7
-R_2VmACIXjENL5z7H-3_G,R_2VmACIXjENL5z7H,3_G,human,False,1,5,2,2,4,2,-1
-R_2VmACIXjENL5z7H-4_G,R_2VmACIXjENL5z7H,4_G,ai,False,1,5,2,5,5,2,3
-R_2VmACIXjENL5z7H-5_G,R_2VmACIXjENL5z7H,5_G,ai,False,1,4,2,5,4,2,3
-R_2VmACIXjENL5z7H-6_G,R_2VmACIXjENL5z7H,6_G,human,False,1,4,2,5,5,2,4
-R_2VmACIXjENL5z7H-7_G,R_2VmACIXjENL5z7H,7_G,human,True,5,2,4,4,4,4,6
-R_2VmACIXjENL5z7H-8_G,R_2VmACIXjENL5z7H,8_G,ai,True,5,2,3,2,4,3,4
-R_8NVcoeta4S8rpT9-1_E,R_8NVcoeta4S8rpT9,1_E,human,True,5,2,5,3,3,5,2
-R_8NVcoeta4S8rpT9-2_E,R_8NVcoeta4S8rpT9,2_E,ai,True,1,4,2,2,4,2,-1
-R_8NVcoeta4S8rpT9-3_E,R_8NVcoeta4S8rpT9,3_E,ai,False,5,4,3,3,3,3,2
-R_8NVcoeta4S8rpT9-4_E,R_8NVcoeta4S8rpT9,4_E,human,False,5,2,4,3,3,4,3
-R_8NVcoeta4S8rpT9-5_E,R_8NVcoeta4S8rpT9,5_E,human,False,5,2,4,4,3,4,4
-R_8NVcoeta4S8rpT9-6_E,R_8NVcoeta4S8rpT9,6_E,ai,False,5,3,4,2,4,4,2
-R_8NVcoeta4S8rpT9-7_E,R_8NVcoeta4S8rpT9,7_E,ai,True,1,2,4,2,3,4,-2
-R_8NVcoeta4S8rpT9-8_E,R_8NVcoeta4S8rpT9,8_E,human,True,5,2,3,3,3,3,4
-R_2NDrCAFoqWuhRXH-1_L,R_2NDrCAFoqWuhRXH,1_L,ai,False,5,2,5,4,4,5,3
-R_2NDrCAFoqWuhRXH-2_L,R_2NDrCAFoqWuhRXH,2_L,ai,True,1,4,2,3,2,2,-4
-R_2NDrCAFoqWuhRXH-3_L,R_2NDrCAFoqWuhRXH,3_L,human,False,5,1,5,5,5,5,6
-R_2NDrCAFoqWuhRXH-4_L,R_2NDrCAFoqWuhRXH,4_L,human,True,1,3,3,3,2,3,-4
-R_2NDrCAFoqWuhRXH-5_L,R_2NDrCAFoqWuhRXH,5_L,human,True,5,1,5,5,5,5,6
-R_2NDrCAFoqWuhRXH-6_L,R_2NDrCAFoqWuhRXH,6_L,human,False,1,4,2,4,3,2,-1
-R_2NDrCAFoqWuhRXH-7_L,R_2NDrCAFoqWuhRXH,7_L,ai,True,1,5,1,5,5,1,2
-R_2NDrCAFoqWuhRXH-8_L,R_2NDrCAFoqWuhRXH,8_L,ai,False,1,4,2,1,1,2,-8
-R_2amhphPbs0VzeEq-1_I,R_2amhphPbs0VzeEq,1_I,human,True,1,4,4,3,4,4,-4
-R_2amhphPbs0VzeEq-2_I,R_2amhphPbs0VzeEq,2_I,ai,False,5,2,4,4,5,4,5
-R_2amhphPbs0VzeEq-3_I,R_2amhphPbs0VzeEq,3_I,ai,True,5,2,4,4,4,4,5
-R_2amhphPbs0VzeEq-4_I,R_2amhphPbs0VzeEq,4_I,human,False,5,3,3,4,3,3,3
-R_2amhphPbs0VzeEq-5_I,R_2amhphPbs0VzeEq,5_I,human,False,1,4,2,3,3,2,-1
-R_2amhphPbs0VzeEq-6_I,R_2amhphPbs0VzeEq,6_I,ai,True,1,2,4,4,3,4,-1
-R_2amhphPbs0VzeEq-7_I,R_2amhphPbs0VzeEq,7_I,ai,False,1,4,2,3,4,2,-1
-R_2amhphPbs0VzeEq-8_I,R_2amhphPbs0VzeEq,8_I,human,True,5,3,3,3,3,3,2
-R_8eRDNaY0lHGPd7Q-1_K,R_8eRDNaY0lHGPd7Q,1_K,ai,True,1,3,5,4,5,5,-1
-R_8eRDNaY0lHGPd7Q-2_K,R_8eRDNaY0lHGPd7Q,2_K,human,False,1,3,3,4,4,3,0
-R_8eRDNaY0lHGPd7Q-3_K,R_8eRDNaY0lHGPd7Q,3_K,human,True,1,3,4,4,4,4,-1
-R_8eRDNaY0lHGPd7Q-4_K,R_8eRDNaY0lHGPd7Q,4_K,ai,False,5,3,4,3,4,4,3
-R_8eRDNaY0lHGPd7Q-5_K,R_8eRDNaY0lHGPd7Q,5_K,ai,False,5,3,4,4,4,4,5
-R_8eRDNaY0lHGPd7Q-6_K,R_8eRDNaY0lHGPd7Q,6_K,human,True,1,4,4,4,4,4,-1
-R_8eRDNaY0lHGPd7Q-7_K,R_8eRDNaY0lHGPd7Q,7_K,human,False,1,3,4,3,3,4,-2
-R_8eRDNaY0lHGPd7Q-8_K,R_8eRDNaY0lHGPd7Q,8_K,ai,True,1,3,4,4,3,4,-1
+respondent_scenario_id,respondent_id,scenario_id,recommendation_source,consistent_recommendation,agree_with_recommendation,biased,impartial,confident,objective,subjective,trustworthy,dem_exp_risk_assessment,dem_exp_reading_ti_reports,per_likelihood_correct
+R_3EGfkDfLBd8gpt0-1_I,R_3EGfkDfLBd8gpt0,1_I,human,True,5,2,4,3,4,4,3,as part of university projects,as part of university projects,False
+R_3EGfkDfLBd8gpt0-2_I,R_3EGfkDfLBd8gpt0,2_I,ai,False,5,2,4,3,4,4,3,as part of university projects,as part of university projects,True
+R_3EGfkDfLBd8gpt0-3_I,R_3EGfkDfLBd8gpt0,3_I,ai,True,5,2,4,3,4,4,2,as part of university projects,as part of university projects,False
+R_3EGfkDfLBd8gpt0-4_I,R_3EGfkDfLBd8gpt0,4_I,human,False,1,3,4,3,4,4,-2,as part of university projects,as part of university projects,False
+R_3EGfkDfLBd8gpt0-5_I,R_3EGfkDfLBd8gpt0,5_I,human,False,5,2,4,3,4,4,3,as part of university projects,as part of university projects,True
+R_3EGfkDfLBd8gpt0-6_I,R_3EGfkDfLBd8gpt0,6_I,ai,True,1,5,3,2,2,3,-7,as part of university projects,as part of university projects,False
+R_3EGfkDfLBd8gpt0-7_I,R_3EGfkDfLBd8gpt0,7_I,ai,False,1,4,4,1,2,4,-8,as part of university projects,as part of university projects,False
+R_3EGfkDfLBd8gpt0-8_I,R_3EGfkDfLBd8gpt0,8_I,human,True,5,2,4,3,4,4,3,as part of university projects,as part of university projects,False
+R_1i2JH7NwfAB6XPK-1_B,R_1i2JH7NwfAB6XPK,1_B,human,False,5,3,4,3,4,4,3,no experience,never seen one before,True
+R_1i2JH7NwfAB6XPK-2_B,R_1i2JH7NwfAB6XPK,2_B,ai,True,1,4,3,5,5,3,3,no experience,never seen one before,False
+R_1i2JH7NwfAB6XPK-3_B,R_1i2JH7NwfAB6XPK,3_B,ai,False,5,2,4,4,4,4,4,no experience,never seen one before,True
+R_1i2JH7NwfAB6XPK-4_B,R_1i2JH7NwfAB6XPK,4_B,human,True,1,3,4,3,4,4,-1,no experience,never seen one before,False
+R_1i2JH7NwfAB6XPK-5_B,R_1i2JH7NwfAB6XPK,5_B,human,True,1,2,4,4,4,4,1,no experience,never seen one before,False
+R_1i2JH7NwfAB6XPK-6_B,R_1i2JH7NwfAB6XPK,6_B,ai,False,1,4,2,3,4,2,0,no experience,never seen one before,False
+R_1i2JH7NwfAB6XPK-7_B,R_1i2JH7NwfAB6XPK,7_B,ai,True,1,4,2,3,4,2,-1,no experience,never seen one before,False
+R_1i2JH7NwfAB6XPK-8_B,R_1i2JH7NwfAB6XPK,8_B,human,False,1,5,2,2,1,2,-7,no experience,never seen one before,False
+R_VUU7Ro2T6DlZbQR-1_J,R_VUU7Ro2T6DlZbQR,1_J,human,False,1,2,4,3,4,4,0,as part of university projects,never seen one before,False
+R_VUU7Ro2T6DlZbQR-2_J,R_VUU7Ro2T6DlZbQR,2_J,human,True,5,2,4,4,4,4,4,as part of university projects,never seen one before,False
+R_VUU7Ro2T6DlZbQR-3_J,R_VUU7Ro2T6DlZbQR,3_J,ai,False,5,4,3,2,3,3,-1,as part of university projects,never seen one before,True
+R_VUU7Ro2T6DlZbQR-4_J,R_VUU7Ro2T6DlZbQR,4_J,ai,True,1,4,2,3,4,2,0,as part of university projects,never seen one before,True
+R_VUU7Ro2T6DlZbQR-5_J,R_VUU7Ro2T6DlZbQR,5_J,ai,True,1,4,2,3,4,2,-1,as part of university projects,never seen one before,True
+R_VUU7Ro2T6DlZbQR-6_J,R_VUU7Ro2T6DlZbQR,6_J,ai,False,1,5,1,4,4,1,1,as part of university projects,never seen one before,False
+R_VUU7Ro2T6DlZbQR-7_J,R_VUU7Ro2T6DlZbQR,7_J,human,True,5,2,4,3,3,4,2,as part of university projects,never seen one before,False
+R_VUU7Ro2T6DlZbQR-8_J,R_VUU7Ro2T6DlZbQR,8_J,human,False,5,2,4,3,4,4,3,as part of university projects,never seen one before,True
+R_RkUCuQCXlPpFqXD-1_A,R_RkUCuQCXlPpFqXD,1_A,human,True,5,1,4,4,5,4,5,as part of university projects,as part of university projects,False
+R_RkUCuQCXlPpFqXD-2_A,R_RkUCuQCXlPpFqXD,2_A,human,False,1,4,3,4,5,3,2,as part of university projects,as part of university projects,False
+R_RkUCuQCXlPpFqXD-3_A,R_RkUCuQCXlPpFqXD,3_A,ai,True,5,2,4,4,5,4,7,as part of university projects,as part of university projects,False
+R_RkUCuQCXlPpFqXD-4_A,R_RkUCuQCXlPpFqXD,4_A,ai,False,1,4,3,3,4,3,-1,as part of university projects,as part of university projects,False
+R_RkUCuQCXlPpFqXD-5_A,R_RkUCuQCXlPpFqXD,5_A,ai,False,1,4,3,2,5,3,0,as part of university projects,as part of university projects,False
+R_RkUCuQCXlPpFqXD-6_A,R_RkUCuQCXlPpFqXD,6_A,ai,True,1,4,3,4,4,3,1,as part of university projects,as part of university projects,True
+R_RkUCuQCXlPpFqXD-7_A,R_RkUCuQCXlPpFqXD,7_A,human,False,5,3,4,2,4,4,2,as part of university projects,as part of university projects,True
+R_RkUCuQCXlPpFqXD-8_A,R_RkUCuQCXlPpFqXD,8_A,human,True,5,2,4,1,2,4,-1,as part of university projects,as part of university projects,False
+R_2y7d0TAqsMCPDEj-1_B,R_2y7d0TAqsMCPDEj,1_B,human,False,5,3,3,1,1,3,-4,no experience,never seen one before,True
+R_2y7d0TAqsMCPDEj-2_B,R_2y7d0TAqsMCPDEj,2_B,ai,True,5,1,5,5,5,5,8,no experience,never seen one before,False
+R_2y7d0TAqsMCPDEj-3_B,R_2y7d0TAqsMCPDEj,3_B,ai,False,5,1,5,4,1,5,1,no experience,never seen one before,True
+R_2y7d0TAqsMCPDEj-4_B,R_2y7d0TAqsMCPDEj,4_B,human,True,1,4,2,4,4,2,1,no experience,never seen one before,True
+R_2y7d0TAqsMCPDEj-5_B,R_2y7d0TAqsMCPDEj,5_B,human,True,5,3,3,2,2,3,1,no experience,never seen one before,False
+R_2y7d0TAqsMCPDEj-6_B,R_2y7d0TAqsMCPDEj,6_B,ai,False,1,5,2,4,3,2,0,no experience,never seen one before,False
+R_2y7d0TAqsMCPDEj-7_B,R_2y7d0TAqsMCPDEj,7_B,ai,True,5,1,5,5,1,5,0,no experience,never seen one before,False
+R_2y7d0TAqsMCPDEj-8_B,R_2y7d0TAqsMCPDEj,8_B,human,False,1,3,3,1,1,3,-6,no experience,never seen one before,False
+R_31HKys4YJElIMIQ-1_C,R_31HKys4YJElIMIQ,1_C,ai,True,1,4,4,3,4,4,-4,no experience,never seen one before,True
+R_31HKys4YJElIMIQ-2_C,R_31HKys4YJElIMIQ,2_C,ai,False,5,2,5,4,4,5,2,no experience,never seen one before,True
+R_31HKys4YJElIMIQ-3_C,R_31HKys4YJElIMIQ,3_C,human,True,1,3,2,5,4,2,2,no experience,never seen one before,True
+R_31HKys4YJElIMIQ-4_C,R_31HKys4YJElIMIQ,4_C,human,False,1,4,4,4,5,4,-1,no experience,never seen one before,False
+R_31HKys4YJElIMIQ-5_C,R_31HKys4YJElIMIQ,5_C,human,False,5,2,4,3,4,4,1,no experience,never seen one before,True
+R_31HKys4YJElIMIQ-6_C,R_31HKys4YJElIMIQ,6_C,human,True,1,4,2,4,4,2,1,no experience,never seen one before,False
+R_31HKys4YJElIMIQ-7_C,R_31HKys4YJElIMIQ,7_C,ai,False,5,1,5,4,4,5,5,no experience,never seen one before,True
+R_31HKys4YJElIMIQ-8_C,R_31HKys4YJElIMIQ,8_C,ai,True,1,4,2,3,4,2,0,no experience,never seen one before,True
+R_2dtq2995ikhbeVP-1_F,R_2dtq2995ikhbeVP,1_F,human,False,5,2,4,4,5,4,6,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_2dtq2995ikhbeVP-2_F,R_2dtq2995ikhbeVP,2_F,ai,False,1,4,3,2,2,3,-5,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_2dtq2995ikhbeVP-3_F,R_2dtq2995ikhbeVP,3_F,human,True,1,4,3,3,4,3,-2,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_2dtq2995ikhbeVP-4_F,R_2dtq2995ikhbeVP,4_F,ai,True,5,2,3,4,4,3,5,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_2dtq2995ikhbeVP-5_F,R_2dtq2995ikhbeVP,5_F,ai,True,5,2,4,4,4,4,4,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_2dtq2995ikhbeVP-6_F,R_2dtq2995ikhbeVP,6_F,human,True,1,3,3,1,3,3,-4,performed one or two risk assessment projects outside of university,as part of university projects,False
+R_2dtq2995ikhbeVP-7_F,R_2dtq2995ikhbeVP,7_F,ai,False,5,3,3,3,4,3,3,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_2dtq2995ikhbeVP-8_F,R_2dtq2995ikhbeVP,8_F,human,False,5,3,3,2,3,3,1,performed one or two risk assessment projects outside of university,as part of university projects,True
+R_1LHhr9JGk71YpZ8-1_K,R_1LHhr9JGk71YpZ8,1_K,ai,True,5,1,4,4,5,4,7,as part of university projects,as part of university projects,False
+R_1LHhr9JGk71YpZ8-2_K,R_1LHhr9JGk71YpZ8,2_K,human,False,5,1,5,4,5,5,6,as part of university projects,as part of university projects,True
+R_1LHhr9JGk71YpZ8-3_K,R_1LHhr9JGk71YpZ8,3_K,human,True,5,2,3,2,4,3,2,as part of university projects,as part of university projects,True
+R_1LHhr9JGk71YpZ8-4_K,R_1LHhr9JGk71YpZ8,4_K,ai,False,5,1,4,4,5,4,7,as part of university projects,as part of university projects,True
+R_1LHhr9JGk71YpZ8-5_K,R_1LHhr9JGk71YpZ8,5_K,ai,False,1,3,3,1,4,3,-4,as part of university projects,as part of university projects,False
+R_1LHhr9JGk71YpZ8-6_K,R_1LHhr9JGk71YpZ8,6_K,human,True,5,1,3,4,5,3,8,as part of university projects,as part of university projects,False
+R_1LHhr9JGk71YpZ8-7_K,R_1LHhr9JGk71YpZ8,7_K,human,False,5,2,3,2,4,3,1,as part of university projects,as part of university projects,True
+R_1LHhr9JGk71YpZ8-8_K,R_1LHhr9JGk71YpZ8,8_K,ai,True,5,1,3,3,3,3,4,as part of university projects,as part of university projects,False
+R_2qg9VL97Lfr6kw5-1_L,R_2qg9VL97Lfr6kw5,1_L,ai,False,5,3,5,5,5,5,3,as part of university projects,i have analyzed a few threat intelligence reports outside of university,True
+R_2qg9VL97Lfr6kw5-2_L,R_2qg9VL97Lfr6kw5,2_L,ai,True,5,3,4,4,5,4,3,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_2qg9VL97Lfr6kw5-3_L,R_2qg9VL97Lfr6kw5,3_L,human,False,1,3,4,5,5,4,0,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_2qg9VL97Lfr6kw5-4_L,R_2qg9VL97Lfr6kw5,4_L,human,True,5,3,4,3,4,4,2,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_2qg9VL97Lfr6kw5-5_L,R_2qg9VL97Lfr6kw5,5_L,human,True,5,3,4,4,4,4,3,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_2qg9VL97Lfr6kw5-6_L,R_2qg9VL97Lfr6kw5,6_L,human,False,1,3,4,2,4,4,-2,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_2qg9VL97Lfr6kw5-7_L,R_2qg9VL97Lfr6kw5,7_L,ai,True,5,3,3,5,4,3,5,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_2qg9VL97Lfr6kw5-8_L,R_2qg9VL97Lfr6kw5,8_L,ai,False,1,3,3,1,3,3,-3,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_1LGpWj3o7NoxbDe-1_E,R_1LGpWj3o7NoxbDe,1_E,human,True,5,2,4,3,4,4,4,as part of university projects,as part of university projects,False
+R_1LGpWj3o7NoxbDe-2_E,R_1LGpWj3o7NoxbDe,2_E,ai,True,5,1,5,4,5,5,7,as part of university projects,as part of university projects,False
+R_1LGpWj3o7NoxbDe-3_E,R_1LGpWj3o7NoxbDe,3_E,ai,False,5,2,4,2,4,4,3,as part of university projects,as part of university projects,True
+R_1LGpWj3o7NoxbDe-4_E,R_1LGpWj3o7NoxbDe,4_E,human,False,1,4,2,2,4,2,0,as part of university projects,as part of university projects,False
+R_1LGpWj3o7NoxbDe-5_E,R_1LGpWj3o7NoxbDe,5_E,human,False,5,3,3,1,3,3,1,as part of university projects,as part of university projects,True
+R_1LGpWj3o7NoxbDe-6_E,R_1LGpWj3o7NoxbDe,6_E,ai,False,1,4,2,4,4,2,1,as part of university projects,as part of university projects,False
+R_1LGpWj3o7NoxbDe-7_E,R_1LGpWj3o7NoxbDe,7_E,ai,True,5,2,4,4,4,4,6,as part of university projects,as part of university projects,False
+R_1LGpWj3o7NoxbDe-8_E,R_1LGpWj3o7NoxbDe,8_E,human,True,5,2,4,2,4,4,2,as part of university projects,as part of university projects,False
+R_Y5ez3SNeaB0f505-1_F,R_Y5ez3SNeaB0f505,1_F,human,False,5,2,4,4,4,4,5,no experience,i have analyzed a few threat intelligence reports outside of university,False
+R_Y5ez3SNeaB0f505-2_F,R_Y5ez3SNeaB0f505,2_F,ai,False,5,2,4,3,4,4,4,no experience,i have analyzed a few threat intelligence reports outside of university,True
+R_Y5ez3SNeaB0f505-3_F,R_Y5ez3SNeaB0f505,3_F,human,True,1,2,4,4,4,4,1,no experience,i have analyzed a few threat intelligence reports outside of university,True
+R_Y5ez3SNeaB0f505-4_F,R_Y5ez3SNeaB0f505,4_F,ai,True,5,2,4,4,5,4,6,no experience,i have analyzed a few threat intelligence reports outside of university,False
+R_Y5ez3SNeaB0f505-5_F,R_Y5ez3SNeaB0f505,5_F,ai,True,1,3,3,4,4,3,1,no experience,i have analyzed a few threat intelligence reports outside of university,False
+R_Y5ez3SNeaB0f505-6_F,R_Y5ez3SNeaB0f505,6_F,human,True,1,2,4,3,4,4,0,no experience,i have analyzed a few threat intelligence reports outside of university,False
+R_Y5ez3SNeaB0f505-7_F,R_Y5ez3SNeaB0f505,7_F,ai,False,5,2,4,4,4,4,5,no experience,i have analyzed a few threat intelligence reports outside of university,True
+R_Y5ez3SNeaB0f505-8_F,R_Y5ez3SNeaB0f505,8_F,human,False,1,2,4,3,4,4,0,no experience,i have analyzed a few threat intelligence reports outside of university,False
+R_2EhMVn7uXsZu9Ay-1_I,R_2EhMVn7uXsZu9Ay,1_I,human,True,5,2,4,4,4,4,3,as part of university projects,as part of university projects,False
+R_2EhMVn7uXsZu9Ay-2_I,R_2EhMVn7uXsZu9Ay,2_I,ai,False,5,4,3,4,4,3,2,as part of university projects,as part of university projects,True
+R_2EhMVn7uXsZu9Ay-3_I,R_2EhMVn7uXsZu9Ay,3_I,ai,True,1,4,3,4,4,3,-1,as part of university projects,as part of university projects,False
+R_2EhMVn7uXsZu9Ay-4_I,R_2EhMVn7uXsZu9Ay,4_I,human,False,5,2,4,4,4,4,4,as part of university projects,as part of university projects,False
+R_2EhMVn7uXsZu9Ay-5_I,R_2EhMVn7uXsZu9Ay,5_I,human,False,5,3,4,4,4,4,3,as part of university projects,as part of university projects,False
+R_2EhMVn7uXsZu9Ay-6_I,R_2EhMVn7uXsZu9Ay,6_I,ai,True,1,2,4,1,3,4,-5,as part of university projects,as part of university projects,True
+R_2EhMVn7uXsZu9Ay-7_I,R_2EhMVn7uXsZu9Ay,7_I,ai,False,5,2,4,2,3,4,2,as part of university projects,as part of university projects,True
+R_2EhMVn7uXsZu9Ay-8_I,R_2EhMVn7uXsZu9Ay,8_I,human,True,5,2,4,4,4,4,3,as part of university projects,as part of university projects,False
+R_2TsFKpba3f8ZKwT-1_H,R_2TsFKpba3f8ZKwT,1_H,ai,False,1,5,1,4,5,1,2,as part of university projects,as part of university projects,False
+R_2TsFKpba3f8ZKwT-2_H,R_2TsFKpba3f8ZKwT,2_H,human,False,1,4,2,4,4,2,1,as part of university projects,as part of university projects,False
+R_2TsFKpba3f8ZKwT-3_H,R_2TsFKpba3f8ZKwT,3_H,ai,True,5,1,5,4,5,5,7,as part of university projects,as part of university projects,False
+R_2TsFKpba3f8ZKwT-4_H,R_2TsFKpba3f8ZKwT,4_H,human,True,5,2,4,2,3,4,1,as part of university projects,as part of university projects,False
+R_2TsFKpba3f8ZKwT-5_H,R_2TsFKpba3f8ZKwT,5_H,human,True,5,1,5,4,4,5,5,as part of university projects,as part of university projects,False
+R_2TsFKpba3f8ZKwT-6_H,R_2TsFKpba3f8ZKwT,6_H,ai,True,1,3,2,1,1,2,-7,as part of university projects,as part of university projects,True
+R_2TsFKpba3f8ZKwT-7_H,R_2TsFKpba3f8ZKwT,7_H,human,False,5,1,4,3,2,4,1,as part of university projects,as part of university projects,True
+R_2TsFKpba3f8ZKwT-8_H,R_2TsFKpba3f8ZKwT,8_H,ai,False,1,3,3,1,2,3,-6,as part of university projects,as part of university projects,False
+R_1N4ANeme2d47raB-1_K,R_1N4ANeme2d47raB,1_K,ai,True,5,4,2,4,4,2,5,as part of university projects,as part of university projects,True
+R_1N4ANeme2d47raB-2_K,R_1N4ANeme2d47raB,2_K,human,False,1,4,4,4,5,4,1,as part of university projects,as part of university projects,False
+R_1N4ANeme2d47raB-3_K,R_1N4ANeme2d47raB,3_K,human,True,1,4,1,5,5,1,5,as part of university projects,as part of university projects,True
+R_1N4ANeme2d47raB-4_K,R_1N4ANeme2d47raB,4_K,ai,False,1,5,1,4,4,1,2,as part of university projects,as part of university projects,False
+R_1N4ANeme2d47raB-5_K,R_1N4ANeme2d47raB,5_K,ai,False,5,4,2,3,4,2,5,as part of university projects,as part of university projects,False
+R_1N4ANeme2d47raB-6_K,R_1N4ANeme2d47raB,6_K,human,True,5,1,5,4,5,5,7,as part of university projects,as part of university projects,False
+R_1N4ANeme2d47raB-7_K,R_1N4ANeme2d47raB,7_K,human,False,1,4,2,4,5,2,3,as part of university projects,as part of university projects,False
+R_1N4ANeme2d47raB-8_K,R_1N4ANeme2d47raB,8_K,ai,True,1,4,2,4,5,2,3,as part of university projects,as part of university projects,True
+R_3snaNiQAsiWvYIu-1_G,R_3snaNiQAsiWvYIu,1_G,ai,True,1,2,3,3,5,3,3,as part of university projects,as part of university projects,True
+R_3snaNiQAsiWvYIu-2_G,R_3snaNiQAsiWvYIu,2_G,human,True,5,1,1,2,4,1,7,as part of university projects,as part of university projects,False
+R_3snaNiQAsiWvYIu-3_G,R_3snaNiQAsiWvYIu,3_G,human,False,1,3,4,2,4,4,-2,as part of university projects,as part of university projects,False
+R_3snaNiQAsiWvYIu-4_G,R_3snaNiQAsiWvYIu,4_G,ai,False,1,4,2,4,4,2,2,as part of university projects,as part of university projects,False
+R_3snaNiQAsiWvYIu-5_G,R_3snaNiQAsiWvYIu,5_G,ai,False,1,3,3,2,4,3,0,as part of university projects,as part of university projects,False
+R_3snaNiQAsiWvYIu-6_G,R_3snaNiQAsiWvYIu,6_G,human,False,1,2,4,2,4,4,0,as part of university projects,as part of university projects,False
+R_3snaNiQAsiWvYIu-7_G,R_3snaNiQAsiWvYIu,7_G,human,True,5,1,5,1,4,5,3,as part of university projects,as part of university projects,False
+R_3snaNiQAsiWvYIu-8_G,R_3snaNiQAsiWvYIu,8_G,ai,True,5,2,4,2,3,4,2,as part of university projects,as part of university projects,False
+R_3nUahgRuPNRinIl-1_D,R_3nUahgRuPNRinIl,1_D,ai,False,5,2,2,4,4,2,6,as part of university projects,never seen one before,False
+R_3nUahgRuPNRinIl-2_D,R_3nUahgRuPNRinIl,2_D,human,True,1,4,3,4,4,3,-1,as part of university projects,never seen one before,True
+R_3nUahgRuPNRinIl-3_D,R_3nUahgRuPNRinIl,3_D,human,False,1,3,2,4,4,2,1,as part of university projects,never seen one before,False
+R_3nUahgRuPNRinIl-4_D,R_3nUahgRuPNRinIl,4_D,ai,True,1,3,2,3,4,2,0,as part of university projects,never seen one before,True
+R_3nUahgRuPNRinIl-5_D,R_3nUahgRuPNRinIl,5_D,ai,True,1,3,2,2,4,2,-1,as part of university projects,never seen one before,True
+R_3nUahgRuPNRinIl-6_D,R_3nUahgRuPNRinIl,6_D,human,False,5,3,2,2,4,2,3,as part of university projects,never seen one before,False
+R_3nUahgRuPNRinIl-7_D,R_3nUahgRuPNRinIl,7_D,human,True,5,2,3,2,4,3,3,as part of university projects,never seen one before,True
+R_3nUahgRuPNRinIl-8_D,R_3nUahgRuPNRinIl,8_D,ai,False,5,3,2,3,4,2,4,as part of university projects,never seen one before,True
+R_Wp3dQ2943lYAQc9-1_B,R_Wp3dQ2943lYAQc9,1_B,human,False,5,3,4,3,2,4,0,as part of university projects,never seen one before,True
+R_Wp3dQ2943lYAQc9-2_B,R_Wp3dQ2943lYAQc9,2_B,ai,True,5,1,5,4,4,5,5,as part of university projects,never seen one before,False
+R_Wp3dQ2943lYAQc9-3_B,R_Wp3dQ2943lYAQc9,3_B,ai,False,5,3,2,3,2,2,1,as part of university projects,never seen one before,True
+R_Wp3dQ2943lYAQc9-4_B,R_Wp3dQ2943lYAQc9,4_B,human,True,5,2,4,2,2,4,-1,as part of university projects,never seen one before,False
+R_Wp3dQ2943lYAQc9-5_B,R_Wp3dQ2943lYAQc9,5_B,human,True,5,3,2,4,4,2,6,as part of university projects,never seen one before,False
+R_Wp3dQ2943lYAQc9-6_B,R_Wp3dQ2943lYAQc9,6_B,ai,False,1,5,5,1,1,5,-12,as part of university projects,never seen one before,False
+R_Wp3dQ2943lYAQc9-7_B,R_Wp3dQ2943lYAQc9,7_B,ai,True,5,1,5,4,5,5,7,as part of university projects,never seen one before,False
+R_Wp3dQ2943lYAQc9-8_B,R_Wp3dQ2943lYAQc9,8_B,human,False,5,3,3,2,2,3,-1,as part of university projects,never seen one before,True
+R_20UpOgvQsuN7P5d-1_G,R_20UpOgvQsuN7P5d,1_G,ai,True,5,4,4,2,4,4,1,as part of university projects,never seen one before,True
+R_20UpOgvQsuN7P5d-2_G,R_20UpOgvQsuN7P5d,2_G,human,True,1,3,4,2,4,4,-2,as part of university projects,never seen one before,False
+R_20UpOgvQsuN7P5d-3_G,R_20UpOgvQsuN7P5d,3_G,human,False,5,3,4,2,4,4,2,as part of university projects,never seen one before,False
+R_20UpOgvQsuN7P5d-4_G,R_20UpOgvQsuN7P5d,4_G,ai,False,5,3,4,2,3,4,1,as part of university projects,never seen one before,True
+R_20UpOgvQsuN7P5d-5_G,R_20UpOgvQsuN7P5d,5_G,ai,False,1,3,4,2,3,4,-3,as part of university projects,never seen one before,False
+R_20UpOgvQsuN7P5d-6_G,R_20UpOgvQsuN7P5d,6_G,human,False,5,3,4,2,3,4,1,as part of university projects,never seen one before,False
+R_20UpOgvQsuN7P5d-7_G,R_20UpOgvQsuN7P5d,7_G,human,True,5,3,4,2,3,4,0,as part of university projects,never seen one before,False
+R_20UpOgvQsuN7P5d-8_G,R_20UpOgvQsuN7P5d,8_G,ai,True,5,3,4,2,3,4,1,as part of university projects,never seen one before,False
+R_DqqEGiQ2MzPUReV-1_C,R_DqqEGiQ2MzPUReV,1_C,ai,True,1,1,5,3,5,5,1,as part of university projects,never seen one before,True
+R_DqqEGiQ2MzPUReV-2_C,R_DqqEGiQ2MzPUReV,2_C,ai,False,5,1,5,4,5,5,6,as part of university projects,never seen one before,True
+R_DqqEGiQ2MzPUReV-3_C,R_DqqEGiQ2MzPUReV,3_C,human,True,1,4,3,4,5,3,2,as part of university projects,never seen one before,True
+R_DqqEGiQ2MzPUReV-4_C,R_DqqEGiQ2MzPUReV,4_C,human,False,5,1,5,3,5,5,6,as part of university projects,never seen one before,True
+R_DqqEGiQ2MzPUReV-5_C,R_DqqEGiQ2MzPUReV,5_C,human,False,5,1,1,4,5,1,10,as part of university projects,never seen one before,True
+R_DqqEGiQ2MzPUReV-6_C,R_DqqEGiQ2MzPUReV,6_C,human,True,5,1,5,3,5,5,6,as part of university projects,never seen one before,False
+R_DqqEGiQ2MzPUReV-7_C,R_DqqEGiQ2MzPUReV,7_C,ai,False,5,3,3,3,1,3,-1,as part of university projects,never seen one before,True
+R_DqqEGiQ2MzPUReV-8_C,R_DqqEGiQ2MzPUReV,8_C,ai,True,1,1,5,3,3,5,-3,as part of university projects,never seen one before,False
+R_1gbVSi0s51Cj6n8-1_L,R_1gbVSi0s51Cj6n8,1_L,ai,False,1,4,2,3,2,2,-2,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_1gbVSi0s51Cj6n8-2_L,R_1gbVSi0s51Cj6n8,2_L,ai,True,5,2,4,4,4,4,6,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_1gbVSi0s51Cj6n8-3_L,R_1gbVSi0s51Cj6n8,3_L,human,False,1,4,3,3,2,3,-4,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_1gbVSi0s51Cj6n8-4_L,R_1gbVSi0s51Cj6n8,4_L,human,True,5,2,4,2,2,4,1,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_1gbVSi0s51Cj6n8-5_L,R_1gbVSi0s51Cj6n8,5_L,human,True,1,3,3,2,2,3,-5,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_1gbVSi0s51Cj6n8-6_L,R_1gbVSi0s51Cj6n8,6_L,human,False,5,2,4,3,4,4,5,as part of university projects,i have analyzed a few threat intelligence reports outside of university,True
+R_1gbVSi0s51Cj6n8-7_L,R_1gbVSi0s51Cj6n8,7_L,ai,True,1,2,4,2,4,4,-1,as part of university projects,i have analyzed a few threat intelligence reports outside of university,True
+R_1gbVSi0s51Cj6n8-8_L,R_1gbVSi0s51Cj6n8,8_L,ai,False,1,4,2,1,2,2,-4,as part of university projects,i have analyzed a few threat intelligence reports outside of university,False
+R_222EEE1-1_E,R_222EEE1,1_E,human,True,5,2,4,4,3,4,3,no experience,never seen one before,True
+R_222EEE1-2_E,R_222EEE1,2_E,ai,True,1,4,3,3,3,3,-2,no experience,never seen one before,False
+R_222EEE1-3_E,R_222EEE1,3_E,ai,False,5,3,3,3,4,3,3,no experience,never seen one before,True
+R_222EEE1-4_E,R_222EEE1,4_E,human,False,5,2,4,3,4,4,3,no experience,never seen one before,False
+R_222EEE1-5_E,R_222EEE1,5_E,human,False,1,4,2,4,4,2,-1,no experience,never seen one before,False
+R_222EEE1-6_E,R_222EEE1,6_E,ai,False,1,4,2,4,4,2,1,no experience,never seen one before,False
+R_222EEE1-7_E,R_222EEE1,7_E,ai,True,5,2,4,3,4,4,4,no experience,never seen one before,True
+R_222EEE1-8_E,R_222EEE1,8_E,human,True,1,4,2,3,3,2,-2,no experience,never seen one before,False
+R_222EEE2-1_B,R_222EEE2,1_B,human,False,1,2,4,3,4,4,1,no experience,never seen one before,True
+R_222EEE2-2_B,R_222EEE2,2_B,ai,True,1,4,2,3,5,2,2,no experience,never seen one before,False
+R_222EEE2-3_B,R_222EEE2,3_B,ai,False,1,4,2,2,4,2,-1,no experience,never seen one before,True
+R_222EEE2-4_B,R_222EEE2,4_B,human,True,5,2,4,2,3,4,2,no experience,never seen one before,True
+R_222EEE2-5_B,R_222EEE2,5_B,human,True,1,3,3,2,3,3,-2,no experience,never seen one before,False
+R_222EEE2-6_B,R_222EEE2,6_B,ai,False,5,2,4,2,4,4,3,no experience,never seen one before,False
+R_222EEE2-7_B,R_222EEE2,7_B,ai,True,1,4,2,2,4,2,-1,no experience,never seen one before,False
+R_222EEE2-8_B,R_222EEE2,8_B,human,False,1,5,1,4,2,1,-1,no experience,never seen one before,False
+R_222EEE3-1_L,R_222EEE3,1_L,ai,False,1,2,4,4,4,4,1,as part of university projects,never seen one before,True
+R_222EEE3-2_L,R_222EEE3,2_L,ai,True,1,5,1,4,4,1,1,as part of university projects,never seen one before,False
+R_222EEE3-3_L,R_222EEE3,3_L,human,False,5,1,5,5,5,5,8,as part of university projects,never seen one before,False
+R_222EEE3-4_L,R_222EEE3,4_L,human,True,1,4,2,4,4,2,1,as part of university projects,never seen one before,False
+R_222EEE3-5_L,R_222EEE3,5_L,human,True,1,3,3,4,4,3,1,as part of university projects,never seen one before,False
+R_222EEE3-6_L,R_222EEE3,6_L,human,False,5,4,2,1,1,2,-3,as part of university projects,never seen one before,False
+R_222EEE3-7_L,R_222EEE3,7_L,ai,True,1,5,2,1,1,2,-8,as part of university projects,never seen one before,False
+R_222EEE3-8_L,R_222EEE3,8_L,ai,False,1,4,2,2,2,2,-5,as part of university projects,never seen one before,False
+R_222EEE4-1_G,R_222EEE4,1_G,ai,True,5,3,4,4,4,4,4,no experience,never seen one before,True
+R_222EEE4-2_G,R_222EEE4,2_G,human,True,5,2,4,5,4,4,6,no experience,never seen one before,True
+R_222EEE4-3_G,R_222EEE4,3_G,human,False,1,3,4,4,5,4,0,no experience,never seen one before,True
+R_222EEE4-4_G,R_222EEE4,4_G,ai,False,1,4,2,4,5,2,1,no experience,never seen one before,True
+R_222EEE4-5_G,R_222EEE4,5_G,ai,False,5,2,4,4,4,4,6,no experience,never seen one before,False
+R_222EEE4-6_G,R_222EEE4,6_G,human,False,1,4,2,4,5,2,2,no experience,never seen one before,False
+R_222EEE4-7_G,R_222EEE4,7_G,human,True,5,3,2,4,4,2,5,no experience,never seen one before,False
+R_222EEE4-8_G,R_222EEE4,8_G,ai,True,5,3,4,4,4,4,5,no experience,never seen one before,True
+R_222EEE5-1_G,R_222EEE5,1_G,ai,True,5,3,3,2,4,3,1,no experience,never seen one before,True
+R_222EEE5-2_G,R_222EEE5,2_G,human,True,5,2,4,3,4,4,4,no experience,never seen one before,True
+R_222EEE5-3_G,R_222EEE5,3_G,human,False,5,4,2,3,4,2,2,no experience,never seen one before,True
+R_222EEE5-4_G,R_222EEE5,4_G,ai,False,1,4,2,3,4,2,-1,no experience,never seen one before,False
+R_222EEE5-5_G,R_222EEE5,5_G,ai,False,1,4,2,3,3,2,-2,no experience,never seen one before,False
+R_222EEE5-6_G,R_222EEE5,6_G,human,False,1,3,4,4,3,4,-1,no experience,never seen one before,False
+R_222EEE5-7_G,R_222EEE5,7_G,human,True,1,4,2,4,4,2,2,no experience,never seen one before,False
+R_222EEE5-8_G,R_222EEE5,8_G,ai,True,1,3,3,2,2,3,-6,no experience,never seen one before,False
+R_222EEE6-1_K,R_222EEE6,1_K,ai,True,1,1,5,4,5,5,1,no experience,never seen one before,False
+R_222EEE6-2_K,R_222EEE6,2_K,human,False,5,2,5,4,4,5,4,no experience,never seen one before,False
+R_222EEE6-3_K,R_222EEE6,3_K,human,True,5,1,5,4,5,5,7,no experience,never seen one before,True
+R_222EEE6-4_K,R_222EEE6,4_K,ai,False,1,1,5,3,2,5,-3,no experience,never seen one before,True
+R_222EEE6-5_K,R_222EEE6,5_K,ai,False,5,1,5,4,4,5,5,no experience,never seen one before,False
+R_222EEE6-6_K,R_222EEE6,6_K,human,True,1,1,5,4,4,5,1,no experience,never seen one before,False
+R_222EEE6-7_K,R_222EEE6,7_K,human,False,5,1,5,4,4,5,5,no experience,never seen one before,False
+R_222EEE6-8_K,R_222EEE6,8_K,ai,True,1,1,5,2,3,5,-3,no experience,never seen one before,False
+R_222EEE7-1_H,R_222EEE7,1_H,ai,False,5,2,2,4,2,2,5,no experience,never seen one before,False
+R_222EEE7-2_H,R_222EEE7,2_H,human,False,5,2,5,4,5,5,5,no experience,never seen one before,False
+R_222EEE7-3_H,R_222EEE7,3_H,ai,True,1,4,2,4,4,2,1,no experience,never seen one before,False
+R_222EEE7-4_H,R_222EEE7,4_H,human,True,5,2,5,5,4,5,5,no experience,never seen one before,True
+R_222EEE7-5_H,R_222EEE7,5_H,human,True,5,2,4,4,4,4,5,no experience,never seen one before,True
+R_222EEE7-6_H,R_222EEE7,6_H,ai,True,1,4,2,4,4,2,1,no experience,never seen one before,False
+R_222EEE7-7_H,R_222EEE7,7_H,human,False,5,2,4,4,4,4,5,no experience,never seen one before,False
+R_222EEE7-8_H,R_222EEE7,8_H,ai,False,1,5,2,4,4,2,1,no experience,never seen one before,True
+R_222EEE8-1_H,R_222EEE8,1_H,ai,False,5,3,4,2,2,4,-1,no experience,never seen one before,False
+R_222EEE8-2_H,R_222EEE8,2_H,human,False,5,2,4,4,3,4,4,no experience,never seen one before,False
+R_222EEE8-3_H,R_222EEE8,3_H,ai,True,1,3,4,3,3,4,-3,no experience,never seen one before,False
+R_222EEE8-4_H,R_222EEE8,4_H,human,True,1,3,4,3,3,4,-3,no experience,never seen one before,False
+R_222EEE8-5_H,R_222EEE8,5_H,human,True,5,3,4,4,3,4,2,no experience,never seen one before,True
+R_222EEE8-6_H,R_222EEE8,6_H,ai,True,5,2,4,2,3,4,1,no experience,never seen one before,True
+R_222EEE8-7_H,R_222EEE8,7_H,human,False,5,2,4,2,2,4,1,no experience,never seen one before,True
+R_222EEE8-8_H,R_222EEE8,8_H,ai,False,5,2,4,4,3,4,3,no experience,never seen one before,False
+R_222EEE9-1_C,R_222EEE9,1_C,ai,True,5,3,3,2,4,3,4,no experience,never seen one before,True
+R_222EEE9-2_C,R_222EEE9,2_C,ai,False,1,4,2,2,3,2,-1,no experience,never seen one before,True
+R_222EEE9-3_C,R_222EEE9,3_C,human,True,5,2,2,3,3,2,4,no experience,never seen one before,True
+R_222EEE9-4_C,R_222EEE9,4_C,human,False,5,3,4,2,3,4,1,no experience,never seen one before,False
+R_222EEE9-5_C,R_222EEE9,5_C,human,False,5,2,4,1,2,4,1,no experience,never seen one before,True
+R_222EEE9-6_C,R_222EEE9,6_C,human,True,5,2,3,2,3,3,3,no experience,never seen one before,True
+R_222EEE9-7_C,R_222EEE9,7_C,ai,False,5,3,3,1,3,3,1,no experience,never seen one before,False
+R_222EEE9-8_C,R_222EEE9,8_C,ai,True,1,3,3,1,3,3,-3,no experience,never seen one before,True
+R_222EEE10-1_K,R_222EEE10,1_K,ai,True,5,3,3,4,4,3,4,as part of university projects,never seen one before,True
+R_222EEE10-2_K,R_222EEE10,2_K,human,False,1,5,2,4,4,2,-1,as part of university projects,never seen one before,True
+R_222EEE10-3_K,R_222EEE10,3_K,human,True,5,1,5,5,5,5,8,as part of university projects,never seen one before,True
+R_222EEE10-4_K,R_222EEE10,4_K,ai,False,1,4,2,3,3,2,-3,as part of university projects,never seen one before,True
+R_222EEE10-5_K,R_222EEE10,5_K,ai,False,5,1,5,4,5,5,7,as part of university projects,never seen one before,False
+R_222EEE10-6_K,R_222EEE10,6_K,human,True,1,5,1,3,4,1,0,as part of university projects,never seen one before,False
+R_222EEE10-7_K,R_222EEE10,7_K,human,False,5,2,4,3,3,4,2,as part of university projects,never seen one before,False
+R_222EEE10-8_K,R_222EEE10,8_K,ai,True,1,4,2,4,5,2,2,as part of university projects,never seen one before,False
+R_222EEE11-1_C,R_222EEE11,1_C,ai,True,5,2,3,5,5,3,7,no experience,never seen one before,True
+R_222EEE11-2_C,R_222EEE11,2_C,ai,False,1,4,4,5,4,4,-1,no experience,never seen one before,True
+R_222EEE11-3_C,R_222EEE11,3_C,human,True,5,2,2,5,5,2,9,no experience,never seen one before,True
+R_222EEE11-4_C,R_222EEE11,4_C,human,False,5,1,2,5,4,2,9,no experience,never seen one before,False
+R_222EEE11-5_C,R_222EEE11,5_C,human,False,5,2,4,5,5,4,7,no experience,never seen one before,False
+R_222EEE11-6_C,R_222EEE11,6_C,human,True,5,2,4,5,5,4,7,no experience,never seen one before,True
+R_222EEE11-7_C,R_222EEE11,7_C,ai,False,1,4,4,5,5,4,0,no experience,never seen one before,True
+R_222EEE11-8_C,R_222EEE11,8_C,ai,True,5,3,4,3,3,4,0,no experience,never seen one before,False
+R_222EEE12-1_F,R_222EEE12,1_F,human,False,1,4,2,3,4,2,0,no experience,never seen one before,False
+R_222EEE12-2_F,R_222EEE12,2_F,ai,False,1,4,2,2,3,2,-2,no experience,never seen one before,True
+R_222EEE12-3_F,R_222EEE12,3_F,human,True,5,2,3,3,3,3,4,no experience,never seen one before,True
+R_222EEE12-4_F,R_222EEE12,4_F,ai,True,1,3,2,2,3,2,-1,no experience,never seen one before,False
+R_222EEE12-5_F,R_222EEE12,5_F,ai,True,5,3,3,2,4,3,3,no experience,never seen one before,True
+R_222EEE12-6_F,R_222EEE12,6_F,human,True,1,4,2,2,3,2,-2,no experience,never seen one before,False
+R_222EEE12-7_F,R_222EEE12,7_F,ai,False,1,3,3,2,3,3,-2,no experience,never seen one before,True
+R_222EEE12-8_F,R_222EEE12,8_F,human,False,5,3,3,1,3,3,1,no experience,never seen one before,False
+R_222EEE13-1_J,R_222EEE13,1_J,human,False,5,2,4,4,4,4,4,as part of university projects,as part of university projects,False
+R_222EEE13-2_J,R_222EEE13,2_J,human,True,5,3,3,4,4,3,3,as part of university projects,as part of university projects,True
+R_222EEE13-3_J,R_222EEE13,3_J,ai,False,1,3,4,5,4,4,-1,as part of university projects,as part of university projects,True
+R_222EEE13-4_J,R_222EEE13,4_J,ai,True,5,3,4,4,4,4,3,as part of university projects,as part of university projects,True
+R_222EEE13-5_J,R_222EEE13,5_J,ai,True,5,3,3,4,4,3,3,as part of university projects,as part of university projects,False
+R_222EEE13-6_J,R_222EEE13,6_J,ai,False,5,4,2,4,4,2,3,as part of university projects,as part of university projects,False
+R_222EEE13-7_J,R_222EEE13,7_J,human,True,5,4,4,3,4,4,0,as part of university projects,as part of university projects,True
+R_222EEE13-8_J,R_222EEE13,8_J,human,False,1,5,2,2,3,2,-5,as part of university projects,as part of university projects,False
+R_222EEE14-1_B,R_222EEE14,1_B,human,False,1,5,5,5,5,5,0,as part of university projects,as part of university projects,True
+R_222EEE14-2_B,R_222EEE14,2_B,ai,True,1,5,2,5,5,2,3,as part of university projects,as part of university projects,False
+R_222EEE14-3_B,R_222EEE14,3_B,ai,False,1,2,3,5,5,3,4,as part of university projects,as part of university projects,True
+R_222EEE14-4_B,R_222EEE14,4_B,human,True,5,1,2,5,5,2,11,as part of university projects,as part of university projects,True
+R_222EEE14-5_B,R_222EEE14,5_B,human,True,1,5,5,5,5,5,-3,as part of university projects,as part of university projects,False
+R_222EEE14-6_B,R_222EEE14,6_B,ai,False,5,3,3,5,5,3,7,as part of university projects,as part of university projects,False
+R_222EEE14-7_B,R_222EEE14,7_B,ai,True,5,2,2,5,5,2,9,as part of university projects,as part of university projects,False
+R_222EEE14-8_B,R_222EEE14,8_B,human,False,5,2,2,5,5,2,9,as part of university projects,as part of university projects,False
+R_222EEE15-1_L,R_222EEE15,1_L,ai,False,1,4,2,4,2,2,-1,no experience,never seen one before,True
+R_222EEE15-2_L,R_222EEE15,2_L,ai,True,1,4,3,2,3,3,-5,no experience,never seen one before,True
+R_222EEE15-3_L,R_222EEE15,3_L,human,False,1,4,3,3,3,3,-4,no experience,never seen one before,False
+R_222EEE15-4_L,R_222EEE15,4_L,human,True,1,3,3,1,3,3,-5,no experience,never seen one before,False
+R_222EEE15-5_L,R_222EEE15,5_L,human,True,5,1,5,4,5,5,6,no experience,never seen one before,True
+R_222EEE15-6_L,R_222EEE15,6_L,human,False,1,4,2,3,2,2,-2,no experience,never seen one before,False
+R_222EEE15-7_L,R_222EEE15,7_L,ai,True,5,4,4,3,2,4,-2,no experience,never seen one before,True
+R_222EEE15-8_L,R_222EEE15,8_L,ai,False,5,2,4,4,4,4,6,no experience,never seen one before,False
+R_222EEE16-1_A,R_222EEE16,1_A,human,True,1,3,4,2,4,4,-3,no experience,as part of university projects,False
+R_222EEE16-2_A,R_222EEE16,2_A,human,False,5,2,4,3,2,4,1,no experience,as part of university projects,False
+R_222EEE16-3_A,R_222EEE16,3_A,ai,True,1,3,3,1,3,3,-4,no experience,as part of university projects,False
+R_222EEE16-4_A,R_222EEE16,4_A,ai,False,1,2,3,2,4,3,-1,no experience,as part of university projects,True
+R_222EEE16-5_A,R_222EEE16,5_A,ai,False,5,3,4,1,3,4,1,no experience,as part of university projects,False
+R_222EEE16-6_A,R_222EEE16,6_A,ai,True,5,3,1,1,2,1,1,no experience,as part of university projects,True
+R_222EEE16-7_A,R_222EEE16,7_A,human,False,5,4,3,1,2,3,-2,no experience,as part of university projects,False
+R_222EEE16-8_A,R_222EEE16,8_A,human,True,5,3,4,1,2,4,-2,no experience,as part of university projects,True
+R_222EEE17-1_F,R_222EEE17,1_F,human,False,5,2,4,4,4,4,5,no experience,never seen one before,False
+R_222EEE17-2_F,R_222EEE17,2_F,ai,False,5,1,4,3,2,4,3,no experience,never seen one before,False
+R_222EEE17-3_F,R_222EEE17,3_F,human,True,5,4,2,4,4,2,5,no experience,never seen one before,True
+R_222EEE17-4_F,R_222EEE17,4_F,ai,True,5,4,2,2,2,2,0,no experience,never seen one before,True
+R_222EEE17-5_F,R_222EEE17,5_F,ai,True,1,3,3,3,3,3,-2,no experience,never seen one before,False
+R_222EEE17-6_F,R_222EEE17,6_F,human,True,1,5,4,3,2,4,-5,no experience,never seen one before,False
+R_222EEE17-7_F,R_222EEE17,7_F,ai,False,1,2,4,2,4,4,-1,no experience,never seen one before,True
+R_222EEE17-8_F,R_222EEE17,8_F,human,False,5,5,5,1,1,5,-8,no experience,never seen one before,False
+R_222EEE18-1_J,R_222EEE18,1_J,human,False,1,4,2,5,4,2,0,as part of university projects,as part of university projects,True
+R_222EEE18-2_J,R_222EEE18,2_J,human,True,5,3,2,5,3,2,4,as part of university projects,as part of university projects,True
+R_222EEE18-3_J,R_222EEE18,3_J,ai,False,1,5,4,5,4,4,-3,as part of university projects,as part of university projects,True
+R_222EEE18-4_J,R_222EEE18,4_J,ai,True,5,2,5,3,3,5,1,as part of university projects,as part of university projects,False
+R_222EEE18-5_J,R_222EEE18,5_J,ai,True,5,3,4,3,3,4,1,as part of university projects,as part of university projects,True
+R_222EEE18-6_J,R_222EEE18,6_J,ai,False,5,2,3,3,4,3,3,as part of university projects,as part of university projects,False
+R_222EEE18-7_J,R_222EEE18,7_J,human,True,1,3,5,2,2,5,-7,as part of university projects,as part of university projects,False
+R_222EEE18-8_J,R_222EEE18,8_J,human,False,1,5,5,3,3,5,-7,as part of university projects,as part of university projects,False
+R_222EEE19-1_D,R_222EEE19,1_D,ai,False,5,2,2,4,5,2,9,no experience,never seen one before,False
+R_222EEE19-2_D,R_222EEE19,2_D,human,True,5,1,2,4,5,2,10,no experience,never seen one before,True
+R_222EEE19-3_D,R_222EEE19,3_D,human,False,5,2,2,3,4,2,5,no experience,never seen one before,False
+R_222EEE19-4_D,R_222EEE19,4_D,ai,True,5,4,3,3,3,3,1,no experience,never seen one before,True
+R_222EEE19-5_D,R_222EEE19,5_D,ai,True,1,3,3,4,4,3,1,no experience,never seen one before,False
+R_222EEE19-6_D,R_222EEE19,6_D,human,False,1,4,4,3,3,4,-4,no experience,never seen one before,False
+R_222EEE19-7_D,R_222EEE19,7_D,human,True,5,3,3,2,3,3,1,no experience,never seen one before,False
+R_222EEE19-8_D,R_222EEE19,8_D,ai,False,1,2,3,3,4,3,1,no experience,never seen one before,True
+R_222EEE20-1_A,R_222EEE20,1_A,human,True,5,2,4,3,4,4,4,as part of university projects,never seen one before,True
+R_222EEE20-2_A,R_222EEE20,2_A,human,False,5,5,4,3,4,4,1,as part of university projects,never seen one before,False
+R_222EEE20-3_A,R_222EEE20,3_A,ai,True,1,3,3,2,4,3,-1,as part of university projects,never seen one before,False
+R_222EEE20-4_A,R_222EEE20,4_A,ai,False,1,3,3,3,4,3,0,as part of university projects,never seen one before,True
+R_222EEE20-5_A,R_222EEE20,5_A,ai,False,1,2,2,3,4,2,2,as part of university projects,never seen one before,True
+R_222EEE20-6_A,R_222EEE20,6_A,ai,True,5,2,3,2,4,3,4,as part of university projects,never seen one before,True
+R_222EEE20-7_A,R_222EEE20,7_A,human,False,5,2,4,3,4,4,4,as part of university projects,never seen one before,False
+R_222EEE20-8_A,R_222EEE20,8_A,human,True,5,2,4,4,5,4,7,as part of university projects,never seen one before,True
+R_222EEE21-1_D,R_222EEE21,1_D,ai,False,1,4,2,4,4,2,1,no experience,never seen one before,True
+R_222EEE21-2_D,R_222EEE21,2_D,human,True,5,1,5,4,4,5,6,no experience,never seen one before,True
+R_222EEE21-3_D,R_222EEE21,3_D,human,False,5,2,4,4,4,4,5,no experience,never seen one before,False
+R_222EEE21-4_D,R_222EEE21,4_D,ai,True,1,4,2,4,4,2,1,no experience,never seen one before,False
+R_222EEE21-5_D,R_222EEE21,5_D,ai,True,1,3,3,4,4,3,1,no experience,never seen one before,True
+R_222EEE21-6_D,R_222EEE21,6_D,human,False,1,3,3,4,3,3,0,no experience,never seen one before,True
+R_222EEE21-7_D,R_222EEE21,7_D,human,True,5,2,4,4,4,4,5,no experience,never seen one before,True
+R_222EEE21-8_D,R_222EEE21,8_D,ai,False,1,3,3,3,3,3,-1,no experience,never seen one before,True
+R_2XisQcp2nwPU39D-1_C,R_2XisQcp2nwPU39D,1_C,ai,True,5,4,3,4,4,3,3,as part of university projects,never seen one before,True
+R_2XisQcp2nwPU39D-2_C,R_2XisQcp2nwPU39D,2_C,ai,False,1,1,4,4,5,4,3,as part of university projects,never seen one before,True
+R_2XisQcp2nwPU39D-3_C,R_2XisQcp2nwPU39D,3_C,human,True,5,2,4,4,3,4,3,as part of university projects,never seen one before,True
+R_2XisQcp2nwPU39D-4_C,R_2XisQcp2nwPU39D,4_C,human,False,1,2,4,4,5,4,1,as part of university projects,never seen one before,True
+R_2XisQcp2nwPU39D-5_C,R_2XisQcp2nwPU39D,5_C,human,False,1,4,3,4,4,3,-1,as part of university projects,never seen one before,True
+R_2XisQcp2nwPU39D-6_C,R_2XisQcp2nwPU39D,6_C,human,True,1,3,3,3,3,3,-2,as part of university projects,never seen one before,False
+R_2XisQcp2nwPU39D-7_C,R_2XisQcp2nwPU39D,7_C,ai,False,1,2,4,4,4,4,1,as part of university projects,never seen one before,True
+R_2XisQcp2nwPU39D-8_C,R_2XisQcp2nwPU39D,8_C,ai,True,5,3,3,3,2,3,1,as part of university projects,never seen one before,True
+R_8QrPGt5CNvLd1lp-1_D,R_8QrPGt5CNvLd1lp,1_D,ai,False,5,2,4,4,4,4,6,no experience,never seen one before,False
+R_8QrPGt5CNvLd1lp-2_D,R_8QrPGt5CNvLd1lp,2_D,human,True,5,2,4,4,4,4,5,no experience,never seen one before,True
+R_8QrPGt5CNvLd1lp-3_D,R_8QrPGt5CNvLd1lp,3_D,human,False,1,4,3,2,3,3,-3,no experience,never seen one before,True
+R_8QrPGt5CNvLd1lp-4_D,R_8QrPGt5CNvLd1lp,4_D,ai,True,1,5,2,2,4,2,-3,no experience,never seen one before,False
+R_8QrPGt5CNvLd1lp-5_D,R_8QrPGt5CNvLd1lp,5_D,ai,True,5,2,4,2,4,4,2,no experience,never seen one before,True
+R_8QrPGt5CNvLd1lp-6_D,R_8QrPGt5CNvLd1lp,6_D,human,False,1,4,2,2,4,2,-1,no experience,never seen one before,True
+R_8QrPGt5CNvLd1lp-7_D,R_8QrPGt5CNvLd1lp,7_D,human,True,5,2,4,1,4,4,0,no experience,never seen one before,True
+R_8QrPGt5CNvLd1lp-8_D,R_8QrPGt5CNvLd1lp,8_D,ai,False,5,2,4,1,4,4,1,no experience,never seen one before,False
+R_2k7mVNKwRjNl6KQ-1_B,R_2k7mVNKwRjNl6KQ,1_B,human,False,1,1,5,4,5,5,2,as part of university projects,as part of university projects,True
+R_2k7mVNKwRjNl6KQ-2_B,R_2k7mVNKwRjNl6KQ,2_B,ai,True,1,3,3,5,5,3,4,as part of university projects,as part of university projects,False
+R_2k7mVNKwRjNl6KQ-3_B,R_2k7mVNKwRjNl6KQ,3_B,ai,False,1,2,4,4,5,4,3,as part of university projects,as part of university projects,True
+R_2k7mVNKwRjNl6KQ-4_B,R_2k7mVNKwRjNl6KQ,4_B,human,True,5,1,4,4,5,4,8,as part of university projects,as part of university projects,True
+R_2k7mVNKwRjNl6KQ-5_B,R_2k7mVNKwRjNl6KQ,5_B,human,True,5,1,5,4,5,5,7,as part of university projects,as part of university projects,True
+R_2k7mVNKwRjNl6KQ-6_B,R_2k7mVNKwRjNl6KQ,6_B,ai,False,5,1,5,5,5,5,8,as part of university projects,as part of university projects,False
+R_2k7mVNKwRjNl6KQ-7_B,R_2k7mVNKwRjNl6KQ,7_B,ai,True,1,4,2,5,5,2,4,as part of university projects,as part of university projects,False
+R_2k7mVNKwRjNl6KQ-8_B,R_2k7mVNKwRjNl6KQ,8_B,human,False,5,2,4,3,3,4,3,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-1_G,R_2VmACIXjENL5z7H,1_G,ai,True,5,2,4,4,4,4,6,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-2_G,R_2VmACIXjENL5z7H,2_G,human,True,5,2,5,5,5,5,7,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-3_G,R_2VmACIXjENL5z7H,3_G,human,False,1,5,2,2,4,2,-1,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-4_G,R_2VmACIXjENL5z7H,4_G,ai,False,1,5,2,5,5,2,3,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-5_G,R_2VmACIXjENL5z7H,5_G,ai,False,1,4,2,5,4,2,3,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-6_G,R_2VmACIXjENL5z7H,6_G,human,False,1,4,2,5,5,2,4,as part of university projects,as part of university projects,False
+R_2VmACIXjENL5z7H-7_G,R_2VmACIXjENL5z7H,7_G,human,True,5,2,4,4,4,4,6,as part of university projects,as part of university projects,True
+R_2VmACIXjENL5z7H-8_G,R_2VmACIXjENL5z7H,8_G,ai,True,5,2,3,2,4,3,4,as part of university projects,as part of university projects,True
+R_8NVcoeta4S8rpT9-1_E,R_8NVcoeta4S8rpT9,1_E,human,True,5,2,5,3,3,5,2,as part of university projects,as part of university projects,True
+R_8NVcoeta4S8rpT9-2_E,R_8NVcoeta4S8rpT9,2_E,ai,True,1,4,2,2,4,2,-1,as part of university projects,as part of university projects,False
+R_8NVcoeta4S8rpT9-3_E,R_8NVcoeta4S8rpT9,3_E,ai,False,5,4,3,3,3,3,2,as part of university projects,as part of university projects,False
+R_8NVcoeta4S8rpT9-4_E,R_8NVcoeta4S8rpT9,4_E,human,False,5,2,4,3,3,4,3,as part of university projects,as part of university projects,False
+R_8NVcoeta4S8rpT9-5_E,R_8NVcoeta4S8rpT9,5_E,human,False,5,2,4,4,3,4,4,as part of university projects,as part of university projects,True
+R_8NVcoeta4S8rpT9-6_E,R_8NVcoeta4S8rpT9,6_E,ai,False,5,3,4,2,4,4,2,as part of university projects,as part of university projects,False
+R_8NVcoeta4S8rpT9-7_E,R_8NVcoeta4S8rpT9,7_E,ai,True,1,2,4,2,3,4,-2,as part of university projects,as part of university projects,False
+R_8NVcoeta4S8rpT9-8_E,R_8NVcoeta4S8rpT9,8_E,human,True,5,2,3,3,3,3,4,as part of university projects,as part of university projects,True
+R_2NDrCAFoqWuhRXH-1_L,R_2NDrCAFoqWuhRXH,1_L,ai,False,5,2,5,4,4,5,3,as part of university projects,as part of university projects,False
+R_2NDrCAFoqWuhRXH-2_L,R_2NDrCAFoqWuhRXH,2_L,ai,True,1,4,2,3,2,2,-4,as part of university projects,as part of university projects,False
+R_2NDrCAFoqWuhRXH-3_L,R_2NDrCAFoqWuhRXH,3_L,human,False,5,1,5,5,5,5,6,as part of university projects,as part of university projects,False
+R_2NDrCAFoqWuhRXH-4_L,R_2NDrCAFoqWuhRXH,4_L,human,True,1,3,3,3,2,3,-4,as part of university projects,as part of university projects,False
+R_2NDrCAFoqWuhRXH-5_L,R_2NDrCAFoqWuhRXH,5_L,human,True,5,1,5,5,5,5,6,as part of university projects,as part of university projects,True
+R_2NDrCAFoqWuhRXH-6_L,R_2NDrCAFoqWuhRXH,6_L,human,False,1,4,2,4,3,2,-1,as part of university projects,as part of university projects,False
+R_2NDrCAFoqWuhRXH-7_L,R_2NDrCAFoqWuhRXH,7_L,ai,True,1,5,1,5,5,1,2,as part of university projects,as part of university projects,False
+R_2NDrCAFoqWuhRXH-8_L,R_2NDrCAFoqWuhRXH,8_L,ai,False,1,4,2,1,1,2,-8,as part of university projects,as part of university projects,False
+R_2amhphPbs0VzeEq-1_I,R_2amhphPbs0VzeEq,1_I,human,True,1,4,4,3,4,4,-4,no experience,as part of university projects,False
+R_2amhphPbs0VzeEq-2_I,R_2amhphPbs0VzeEq,2_I,ai,False,5,2,4,4,5,4,5,no experience,as part of university projects,False
+R_2amhphPbs0VzeEq-3_I,R_2amhphPbs0VzeEq,3_I,ai,True,5,2,4,4,4,4,5,no experience,as part of university projects,True
+R_2amhphPbs0VzeEq-4_I,R_2amhphPbs0VzeEq,4_I,human,False,5,3,3,4,3,3,3,no experience,as part of university projects,True
+R_2amhphPbs0VzeEq-5_I,R_2amhphPbs0VzeEq,5_I,human,False,1,4,2,3,3,2,-1,no experience,as part of university projects,True
+R_2amhphPbs0VzeEq-6_I,R_2amhphPbs0VzeEq,6_I,ai,True,1,2,4,4,3,4,-1,no experience,as part of university projects,False
+R_2amhphPbs0VzeEq-7_I,R_2amhphPbs0VzeEq,7_I,ai,False,1,4,2,3,4,2,-1,no experience,as part of university projects,False
+R_2amhphPbs0VzeEq-8_I,R_2amhphPbs0VzeEq,8_I,human,True,5,3,3,3,3,3,2,no experience,as part of university projects,True
+R_8eRDNaY0lHGPd7Q-1_K,R_8eRDNaY0lHGPd7Q,1_K,ai,True,1,3,5,4,5,5,-1,as part of university projects,never seen one before,False
+R_8eRDNaY0lHGPd7Q-2_K,R_8eRDNaY0lHGPd7Q,2_K,human,False,1,3,3,4,4,3,0,as part of university projects,never seen one before,True
+R_8eRDNaY0lHGPd7Q-3_K,R_8eRDNaY0lHGPd7Q,3_K,human,True,1,3,4,4,4,4,-1,as part of university projects,never seen one before,True
+R_8eRDNaY0lHGPd7Q-4_K,R_8eRDNaY0lHGPd7Q,4_K,ai,False,5,3,4,3,4,4,3,as part of university projects,never seen one before,False
+R_8eRDNaY0lHGPd7Q-5_K,R_8eRDNaY0lHGPd7Q,5_K,ai,False,5,3,4,4,4,4,5,as part of university projects,never seen one before,False
+R_8eRDNaY0lHGPd7Q-6_K,R_8eRDNaY0lHGPd7Q,6_K,human,True,1,4,4,4,4,4,-1,as part of university projects,never seen one before,False
+R_8eRDNaY0lHGPd7Q-7_K,R_8eRDNaY0lHGPd7Q,7_K,human,False,1,3,4,3,3,4,-2,as part of university projects,never seen one before,True
+R_8eRDNaY0lHGPd7Q-8_K,R_8eRDNaY0lHGPd7Q,8_K,ai,True,1,3,4,4,3,4,-1,as part of university projects,never seen one before,False
