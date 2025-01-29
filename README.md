@@ -3,5 +3,6 @@ General repository for the course of Security Experiments and Measurements, take
 
 ### Contents of this repo:
 - Code and data for the different modules through this course: CTI & FYN.
+- The edited Colab files.
 - General code for data editing/processing.
-- The processed feedback for the revised FYN report.
+- **The processed feedback for the revised FYN report.**
